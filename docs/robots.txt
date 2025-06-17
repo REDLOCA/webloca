@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://redloca.es/sitemap.xml

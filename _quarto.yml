@@ -6,7 +6,7 @@ website:
   page-navigation: true
   title: "REDLOCA"
   description: "Web de la Red de Localización y Problemas Afines Española"
-  site-url: ""
+  site-url: "https://redloca.es"
   
   # repo-url: https://github.com/rstudio-education/datascience-box
   # repo-actions: [edit, issue]
