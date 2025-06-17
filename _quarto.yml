@@ -1,0 +1,137 @@
+project:
+  type: website
+    
+website:
+  page-navigation: true
+  title: "REDLOCA"
+  description: "Web de la Red de Localización y Problemas Afines Española"
+  site-url: ""
+  
+  # repo-url: https://github.com/rstudio-education/datascience-box
+  # repo-actions: [edit, issue]
+
+  # open-graph: true
+  twitter-card:
+    creator: "@iwoloca"
+    image: "/images/twitter-card.png"
+
+  page-footer:
+    background: "#A7D5E8"
+    # left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    # right:
+    # - text: "License"
+    #   href: LICENSE.md
+    # - text: "Code of Conduct"
+    #   href: CODE_OF_CONDUCT.md
+
+  navbar:
+    background: "#A7D5E8"
+    logo: "images/logo.png"
+    align: center
+    title: false
+    collapse-below: lg
+ 
+    right:
+      - icon: github
+        href: https://github.com/REDLOCA
+        aria-label: GitHub
+      - icon: twitter
+        href: https://x.com/iwoloca
+        aria-label: Twitter
+
+    left:
+      - text: "Bienvenida"
+        href: index.qmd
+      - text: "Congresos"
+        href: events.qmd
+      - text: "Investigación"
+        href: research.qmd
+      - text: "Miembros"
+        href: members.qmd
+      - text: "Noticias"
+        href: news.qmd
+
+  sidebar:
+    - id: events
+      title: "Congresos"
+      # style: "floating"
+      # collapse-level: 2
+      # align: center
+      contents:
+        - href: events.qmd
+        - href: 01-iwolocaxiii.qmd
+        - href: 01-iwolocaxiv.qmd
+
+    - id: research
+      title: "Investigación"
+      contents:
+        - href: research.qmd
+      #   - href: 02-hello-world.qmd
+      #   - href: 02-exploring-data.qmd
+      #   - href: 02-ethics.qmd
+      #   - href: 02-making-rigorous-conclusions.qmd
+      #   - href: 02-looking-further.qmd
+      #   - href: 02-interactive-tutorials.qmd
+      #   - href: 02-project.qmd
+      #   - href: 02-exams.qmd
+
+    - id: members
+      title: "Miembros"
+      align: center
+      contents:
+        - href: members.qmd
+      #   - href: 03-access-r.qmd
+      #   - href: 03-version-control.qmd
+      #   - href: 03-discussion.qmd
+      #   - href: 03-sharing.qmd
+      #   - href: 03-alternative-setups.qmd
+
+    - id: news
+      title: "Noticias"
+      contents:
+        - href: news.qmd
+      #   - href: 03-access-r.qmd
+      #   - href: 03-version-control.qmd
+      #   - href: 03-discussion.qmd
+      #   - href: 03-sharing.qmd
+      #   - href: 03-alternative-setups.qmd
+
+
+
+format:
+  html:
+    theme:
+      light: [cosmo, style/dsbox.scss]
+      dark: [cosmo, style/dsbox.scss, style/dark.scss]
+    # toc: true
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Atkinson Hyperlegible"
+    include-in-header: "style/fontawesome.html"
+
+freeze: auto
+
+editor: visual
+
+
+# project:
+#   type: website
+# 
+# website:
+#   title: "redlocaweb"
+#   navbar:
+#     left:
+#       - href: index.qmd
+#         text: Home
+#       - about.qmd
+# 
+# format:
+#   html:
+#     theme:
+#       - cosmo
+#       - brand
+#     css: styles.css
+#     toc: true
+# 
+# editor: visual
+# 

@@ -1,0 +1,26 @@
+---
+title: "Miembros"
+editor: visual
+---
+
+<link rel="stylesheet" href="style/estilo.css">
+
+```{r, results='asis', echo=FALSE, include=TRUE, warning=FALSE, message=FALSE}
+
+library(tidyverse)
+library(readxl)
+
+datos <- read_excel("miembros_red.xlsx")
+# datos <- datos[1:99,]
+
+datos %>%
+  group_by(universidad) %>%
+  summarise(markdown = paste0("- [", nombre, "](", url, ")", collapse = "\n")) %>%
+  # summarise(markdown = paste0("- [", nombre, "](", url, ") - (email: ", email, ")", collapse = "\n")) %>%
+  mutate(titulo = paste0("\n\n **", universidad, "**")) %>%
+  mutate(bloque = paste(titulo, markdown, sep = "\n\n")) %>%
+  pull(bloque) %>%
+  writeLines()
+
+```
+

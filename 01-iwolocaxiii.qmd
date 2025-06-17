@@ -1,0 +1,111 @@
+---
+title: "IWOLOCA XIII"
+---
+
+<link rel="stylesheet" href="style/estilo.css">
+
+![](images/onlylogo.png)
+
+### XIII International Workshop on Locational Analysis and Related Problems
+
+The XIII International Workshop on Locational Analysis and Related Problems will be celebrated in Granada (Spain) 4-6 September 2024. This is an activity organized by the Spanish Network on Location and Related Problems and GELOCA, the SEIO working group on Location. These organizations involve Spanish researchers focused on locational analysis and other related problems, organized in 6 thematic nodes and distributed among several Spanish universities. Every year, the Network organizes a meeting to promote communication among its members and between them and other researchers, including an important number of international researchers, and to contribute to the development of the location field and related problems. The last meeting took place in Edinburgh (UK) in September 2023.
+
+The topics of interest are location analysis and problems related to it. This includes location models, networks, transportation, logistics, exact and heuristic solution methods, and computational geometry, among others. Researchers and practitioners are invited to present works in the form of oral communications or posters. For participation, the submission of a short abstract is required.
+
+### Submission Guidelines
+
+The extended abstract – in IWOLOCA format– should not exceed 2 pages length (references included). The first page should contain the title, the authors’ names with their affiliations, and a short abstract. The introduction should be a broadly accessible exposition of the main ideas and techniques used to achieve the results, including motivation and a clear comparison with related work. 
+
+The submission server can be accessed here: [easychair](https://easychair.org/my/conference?conf=iwoloca24</center>)
+
+**Abstract submission deadline:** (EXTENDED) ~~May 15th, 2024~~ June 1st, 2024
+
+**Notification of acceptance:** June 15, 2024.
+
+**Template (tex) for submission:** [IWOLOCA24 Template](https://drive.google.com/file/d/1kcg9t3AqJqGRO3ULYH7k3nBJAvt9hpUw/view)
+
+(You can submit the .tex file in the submission process or a zip file with the .tex and the rest of the required files to compile your abstract).
+
+### Registration 
+
+The registration fee for the conference (including conferences materials, admissions to all sessions, lunches, dinners, and social activities) is 150€. A Limited number of rooms are reserved for the participants (included in the resgistration fee) at Carmen de la Victoria  and Corrala de Santiago. The rooms will be assigned in order of registration and notified to the attendand.
+
+The registration will be made by bank transfer to the Universidad de Granada account: ES58 2100 4224 3913 0072 0546 (Caixabank), indicating in the concept: IWOLOCA2024 FirstName LastNames 
+
+To complete the registration, the transfer receipt must be sent to iwoloca@gmail.com 
+
+**Registration deadline:** June 30th, 2024.
+
+
+## Confirmed Speakers
+
+- [Jim Luedtke](https://jrluedtke.github.io/) (University of Wisconsin - Madison)
+
+- [Alfredo Marín](https://scholar.google.com/citations?user=0U3KvCYAAAAJ&hl=es) (Universidad de Murcia)
+
+- [Sibel Salman](https://mysite.ku.edu.tr/ssalman/) (Koç University)
+ 
+
+## Schedule
+
+The definitive program for the conference is available here: [Schedule](https://drive.google.com/file/d/1axGI-nTJY6fOxEPNA6vyfEuFbWJ3m9XY/view)
+
+The proceedings for the Workshop can be downloaded here: [Proceedings IWOLOCA24](https://arxiv.org/pdf/2409.06397)
+
+
+## Venue
+
+The workshop will be held at the [Institute of Mathematics (IMAG) - Universidad de Granada](https://wpd.ugr.es/~imag/addresses-and-access) and [Carmen de la Victoria (Salón de Actos)](https://carmendelavictoria.ugr.es)
+
+## List of Topics
+
+- Facility and Hub Location
+- Network Design
+- Applications to Machine Learning
+- Transportation
+- Humanitarian Logistics
+
+## Social Activities
+
+As part of the social side of the conference, we will have during the conference: a wellcome cocktail, a guided visit, a tapas tour, and a gala dinner.
+
+## Committees
+
+### Program Committee
+
+- Mari Albareda, (Universidad Politécnica de Cataluña).
+- Víctor Blanco (Universidad de Granada).
+- David Canca (Universidad de Sevilla).
+- Elena Fernández (Universidad de Cádiz)
+- Sergio García Quiles (University of Edinburgh).
+- Jörg Kalcsics (University of Edinburgh).
+- Mercedes Landete (Universidad Miguel Hernández Elche).
+- Teresa Ortuño (Universidad Complutense de Madrid).
+- Blas Pelegrín (Universidad de Murcia).
+- Justo Puerto (Universidad de Seville).
+- Juan José Salazar (Universidad de La Laguna).
+
+### Local Organizing Committee
+
+- Marta Baldomero (Universidad de Cádiz)
+- Víctor Blanco (Universidad de Granada) - Chair
+- Ricardo Gázquez (Universidad Carlos III Madrid)
+- Gabriel González (Universidad de Granada)
+- Miguel Martínez-Antón (Universidad de Granada)
+- Luisa Martínez-Merino (Universidad de Cádiz)
+- Román Salmerón (Universidad de Granada)
+- Francisco Temprano (Universidad de Sevilla)
+- Alberto Torrejón (Universidad de Sevilla)
+
+### Contact
+
+All questions about submissions should be emailed to iwoloca@gmail.com
+
+### Sponsors
+
+![](images/sponsor_iwolocaxiii.jpeg)
+
+
+
+
+

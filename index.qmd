@@ -1,0 +1,19 @@
+---
+title: ""
+---
+
+<link rel="stylesheet" href="style/estilo.css">
+
+![](images/1_REDLOCA_logo.png)
+
+# Bienvenido
+
+La **Red de Localización** está formada por distintos grupos de investigadores de varias universidades que trabajan en el campo de la localización y problemas relacionados. Además de los modelos de localización, se estudian modelos de rutas y transporte, diseño de redes y logística, entre otros temas. La Red fue creada en el año 2002 a partir del Grupo Español de Localización (GELOCA, http://geloca.seio.es/), estando financiada desde su inicio por el Gobierno Español. Desde 2002 hasta la actualidad, la Red ha estado coordinada por Juan A. Mesa (Universidad de Sevilla), Elena Fernández (Universitat Politècnica de Catalunya), Alfredo Marín (Universidad de Murcia), Dolores R. Santos-Peñate (Universidad de Las Palmas de Gran Canaria), Antonio M. Rodríguez-Chía (Universidad de Cádiz), Maria Albareda (Universitat Politècnica de Catalunya) y Víctor Blanco (Universidad de Granada). Desde 2010, entre otras actividades, la Red organiza anualmente el International Workshop on Locational Analysis and Related Problems, abierto a la participación de personas interesadas en los temas relacionados con la localización.
+
+<center><i class="fa fa-envelope fa-2x"></i> iwoloca\@gmail.com</a> <br> <i class="fa fa-twitter fa-2x"></i> <a style="text-decoration:none" href="https://x.com/iwoloca">@IWOLOCA</a> <!-- <i class="fa fa-github fa-2x"></i> <a href="https://github.com/albtorval">albtorval</a> --></center>
+
+<br>
+
+![](images/ministerio.png)
+
+<center><img src="images/SEIO.png" width="300" height="150"/> <img src="images/2_GELOCA_logo.png" width="300" height="150"/></center>

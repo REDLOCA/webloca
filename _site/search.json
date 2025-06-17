@@ -1,0 +1,223 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenido",
+    "section": "",
+    "text": "Bienvenido\nLa Red de Localización está formada por distintos grupos de investigadores de varias universidades que trabajan en el campo de la localización y problemas relacionados. Además de los modelos de localización, se estudian modelos de rutas y transporte, diseño de redes y logística, entre otros temas. La Red fue creada en el año 2002 a partir del Grupo Español de Localización (GELOCA, http://geloca.seio.es/), estando financiada desde su inicio por el Gobierno Español. Desde 2002 hasta la actualidad, la Red ha estado coordinada por Juan A. Mesa (Universidad de Sevilla), Elena Fernández (Universitat Politècnica de Catalunya), Alfredo Marín (Universidad de Murcia), Dolores R. Santos-Peñate (Universidad de Las Palmas de Gran Canaria), Antonio M. Rodríguez-Chía (Universidad de Cádiz), Maria Albareda (Universitat Politècnica de Catalunya) y Víctor Blanco (Universidad de Granada). Desde 2010, entre otras actividades, la Red organiza anualmente el International Workshop on Locational Analysis and Related Problems, abierto a la participación de personas interesadas en los temas relacionados con la localización.\n\n iwoloca@gmail.com   @IWOLOCA"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Congresos",
+    "section": "",
+    "text": "International Workshop on Location Analysis and Related Problems\n\nXIV IWOLOCA - EWGLA XXX, 2025, Jerez\nXIII IWOLOCA, 2024, Granada\nXII IWOLOCA, 2023, Edimburgo\nXI IWOLOCA, 2022, Elche\nX IWOLOCA, 2020, Sevilla\nIX IWOLOCA, 2019, Cádiz\nVIII IWOLOCA, 2017, Segovia\nVII IWOLOCA, 2016, Málaga\nVI IWOLOCA, 2015, Barcelona\nV IWOLOCA, 2014, Sevilla\nIV IWOLOCA, 2013, Málaga\nIII IWOLOCA, 2012, Granada\nII IWOLOCA, 2011, Las Palmas de Gran Canaria\nI IWOLOCA, 2010, Sevilla",
+    "crumbs": [
+      "Congresos"
+    ]
+  },
+  {
+    "objectID": "research.html#localización-continua",
+    "href": "research.html#localización-continua",
+    "title": "Investigación",
+    "section": "Localización Continua",
+    "text": "Localización Continua\n\nCoordinador: Víctor Blanco (Universidad de Granada)\nLa localización continua engloba aquellos problemas de localización de servicios donde el espacio de soluciones es continuo. Para analizar este tipo de problemas el grupo combina herramientas de análisis convexo, con aquellas de la optimización discreta y con el desarrollo de procedimientos iterativos de carácter geométrico. Las aplicaciones prácticas de la localización continua son el posicionamiento de sensores o cámaras donde hay cierta flexibilidad para su ubicación. La representación de los problemas como modelos de optimización sobre el cono de segundo orden combinados con las técnicas de optimización lineal entera es uno de los métodos más exitosos en esta área, y que debiera enriquecerse con el desarrollo de técnicas de ramificación-acotación-fijado-y-corte por desarrollar.\nOtros Miembros: R. Gázquez (UC3M), A. Japón (US), R. Salmerón, C. García T. García, A. Gaggero, M. Martinez, P. Domínguez (UGR), S. García-Quiles (Unviversidad Edimburgo), J. Linderoth, A. Del Pia, S. Wraight (U. Wisconsin-Madison)",
+    "crumbs": [
+      "Investigación"
+    ]
+  },
+  {
+    "objectID": "research.html#localización-discreta",
+    "href": "research.html#localización-discreta",
+    "title": "Investigación",
+    "section": "Localización Discreta",
+    "text": "Localización Discreta\n\nCoordinadora: Mercedes Landete (Universidad Miguel Hernández de Elche)\nLos problemas de localización discreta de plantas consisten en decidir sobre qué elementos elegir de entre un conjunto finito de posibilidades que minimicen cierto coste asociado con la ubicación y la instalación del servicio. Las técnicas más usadas para su análisis son las derivadas de la optimización discreta (ramificación y acotación, desigualdades válidas, poliédrica, relajación Lagrangeana). Uno de los objetivos del grupo es la extensión de los modelos de plantas a modelos de optimización en subastas, en cadenas de suministro, en modelos de planificación de la producción, etc.\nOtros miembros: J. Alcaraz, M. Landete, JF. Monge, JL. Sainz-Pardo, M. Leal, L Antón, A Moya (UMH), Juan José Peiró (UV), F. Saldanha (Universidad de Sheffield)",
+    "crumbs": [
+      "Investigación"
+    ]
+  },
+  {
+    "objectID": "research.html#localización-bajo-competencia-e-incertidumbre",
+    "href": "research.html#localización-bajo-competencia-e-incertidumbre",
+    "title": "Investigación",
+    "section": "Localización bajo Competencia e Incertidumbre",
+    "text": "Localización bajo Competencia e Incertidumbre\n\nCoordinador: Blas Pelegrín (Universidad de Murcia)\nLa localización de las instalaciones de una empresa es una decisión estratégica a la que se añaden otras decisiones tácticas con información posiblemente incierta. En los últimos años se han desarrollado diversos modelos para incorporar y resolver problemas de localización en los que se incorporan elementos inciertos o en los que hay competencia en distintos escenarios definidos en por el comportamiento de los consumidores, el tipo de servicio, etc. Algunos modelos de interés en el análisis de la competencia son el modelo del seguidor, y el modelo del líder. Los modelos posibles que permiten incorporar la incertidumbre son numerosos, desde modelos robustos, a modelo con información probabilística básicos, a aquellos que contemplan conjuntos de fiabilidad y el CVar. La complejidad creciente de este tipo de problemas hace necesario el desarrollo de nuevos modelos, así como de nuevas técnicas de optimización que permitan gestionar de un gran número de datos.\nOtros Miembros: J. Fernández, P. Fernández (UM), P. Martínez, J. López (UA), I. Dorta (ULL), C. Manrique, P. Dorta, R. Suarez, D. Santos (ULPGC), E. Hendrix (UMA), J. Elizalde (UN), D.Ruiz (Sheffield University), BG. Toth (U of Szeged), A Alonso, D. Heredia, L Escudero (URJC), Celeste Pizarro (UCM)",
+    "crumbs": [
+      "Investigación"
+    ]
+  },
+  {
+    "objectID": "research.html#diseño-de-redes",
+    "href": "research.html#diseño-de-redes",
+    "title": "Investigación",
+    "section": "Diseño de Redes",
+    "text": "Diseño de Redes\n\nCoordinadora: Maria Albareda (Universidad Politècnica de Catalunya)\nEl diseño de redes estudia aquellos problemas de localización cuyo dominio es un grafo y en los que las decisiones de localización y asignación pueden asociarse a la selección de vértices y aristas. Entre sus principales aplicaciones destacan las telecomunicaciones y la logística de distribución, ámbitos en los que prácticamente cualquier decisión de carácter estratégico, táctico u operacional implica el diseño de la topología de una red. En este tipo de problemas es fundamental el uso de distintas herramientas de la Teoría de Grafos, combinada con la Optimización Combinatoria. Además, teniendo en cuenta la incertidumbre inherente a la mayoría de los problemas logísticos, es necesario el uso de herramientas de programación estocástica para su adecuado análisis.\nOtros Miembros: JA. Iranzo (CUD), E. Codina, C. Núñez (UPC), H. Calvete, C. Galé (UZ), J. Rodríguez (UPF), G. Reinelt (Heidelberg U.), JA. Díaz (UDLA Puebla), R. Ríos, F. Camacho D. Huerta (UA Nuevo León)",
+    "crumbs": [
+      "Investigación"
+    ]
+  },
+  {
+    "objectID": "research.html#rutas-y-distribución",
+    "href": "research.html#rutas-y-distribución",
+    "title": "Investigación",
+    "section": "Rutas y Distribución",
+    "text": "Rutas y Distribución\n\nCoordinador: Juan José Salazar (Universidad de La Laguna)\nTodos los aspectos que conciernen a los problemas de distribución y transporte son de gran importancia económica. Este grupo cubre el análisis y el desarrollo de métodos para la planificación, gestión y explotación de las redes de distribución y transporte de mercancías. Su propósito es ayudar a que el proceso de análisis y de toma de decisiones sea más eficaz y de mayor calidad. Se estudian diferentes problemas de rutas de vehículos y su combinación con los de localización de servicios, con especial énfasis en: i) problemas en los que la demanda se sitúa en los vértices que son extensiones de otros problemas conocidos, con aplicaciones más realistas, que permitan tener en cuenta las nuevas formas de distribución y recogida de mercancías, ii) problemas en los que la demanda se sitúa en los arcos que incorporen consideraciones referentes al eventual beneficio de la operación, a las relacionadas con los costes y sobre diferentes tipos de grafos, iii) problemas relacionados con rutas inteligentes para un transporte sostenible e integrado.\nOtros Miembros: H. Hernández, J. Riera I. Rodríguez (ULL), A. Santini (UPF), JM. Sanchís (UPV), E. Benavent (UV), Miguel Reula, P. Segura (UV).",
+    "crumbs": [
+      "Investigación"
+    ]
+  },
+  {
+    "objectID": "research.html#ciencia-de-datos-y-localización",
+    "href": "research.html#ciencia-de-datos-y-localización",
+    "title": "Investigación",
+    "section": "Ciencia de Datos y Localización:",
+    "text": "Ciencia de Datos y Localización:\n\nCoordinador: Antonio M Rodríguez Chía (Universidad de Cádiz)\nEn los últimos años, el avance de las herramientas computacionales para resolver exactamente problemas de optimización complejos, así como aquellas relacionadas con el manejo de grandes bases de datos, han abierto un campo de trabajo de muy alta repercusión en el Análisis de Datos moderno en lo que se refiere a modelos de optimización para la construcción de herramientas de aprendizaje automático con distintas particularidades, que hasta el momento no eran posibles por las limitaciones computacionales y de modelado matemático. En este sentido, recientemente el grupo de trabajo ha detectado una conexión directa entre los problemas clásicos de localización y la construcción de herramientas de clasificación supervisada. El desarrollo de modelos de aprendizaje automático que permitan extraer información relevante de los datos, y de algoritmos eficientes y escalables de resolución, que se adapten a las necesidades de los datos, con criterios de interpretabilidad, equidad, capacidad de inferencia, y transparencia, son algunos de los objetivos del grupo.\nOtros Miembros: A. Castaño, M. Baldomero, I. Espejo, L. Martínez, JM Muñoz, T. Navarro, R. Páez, C. Valero (UCA), S. Nickel (Karlsruhe Ins. of Tech), J. Kalsics (Univ. Edimburgh).",
+    "crumbs": [
+      "Investigación"
+    ]
+  },
+  {
+    "objectID": "research.html#localización-y-análisis-de-redes-complejas-e-inteligencia-artificial",
+    "href": "research.html#localización-y-análisis-de-redes-complejas-e-inteligencia-artificial",
+    "title": "Investigación",
+    "section": "Localización y análisis de redes complejas e inteligencia artificial",
+    "text": "Localización y análisis de redes complejas e inteligencia artificial\n\nCoordinador: Justo Puerto (Universidad de Sevilla)\nLa integración de diferentes elementos relevantes en el análisis de los problemas de localización, como el inventario, la secuenciación de tareas, o la gestión de colas, que de forma clásica no se habían considerado simultáneamente, genera modelos usualmente muy complejos pero que en contrapartida representan con mayor fidelidad la situación bajo estudio. El objetivo es crear modelos matemáticos realistas, que ayuden de manera eficaz a la toma de decisiones y a la monitorización de estos sistemas. Para conseguir dicho objetivo será necesario trabajar en varias líneas de acción, algunas de ámbito local que analicen propiedades específicas y que innoven en el tratamiento de problemas concretos, y otras más globales que incorporen las innovaciones específicas en el desarrollo de algoritmos de resolución para problemas de mayor entidad. Este es el caso de la conexión con la Inteligencia Artificial, tanto para el desarrollo de herramientas eficientes de resolución para sistemas de grandes tamaños, como para el diseño de sistemas inteligentes usando herramientas de la gestión logística. El principal objetivo en conjunción con todas estas es la aplicación de los resultados obtenidos a la gestión de las redes en problemas urbanos (smart cities). Todos estos factores se relacionan por la capacidad de resolver problemas nuevos y utilizar herramientas matemáticas para mejorar su eficiencia.\nOtros Miembros: Y. Hinojosa, M. Pozo, D. Ponce, M. Rodriguez, A. Torrejón, F Temprano, G Gonzalez (US), D. Pérez (ULL), S. Benati (U. Trento), A. Scozzari (U. degli Studi Niccolò Cusano), L. Amorosi, F. Ricca (U La Sapienza).",
+    "crumbs": [
+      "Investigación"
+    ]
+  },
+  {
+    "objectID": "research.html#localización-de-concentradores-y-logística-portuaria",
+    "href": "research.html#localización-de-concentradores-y-logística-portuaria",
+    "title": "Investigación",
+    "section": "Localización de Concentradores y Logística Portuaria",
+    "text": "Localización de Concentradores y Logística Portuaria\n\nCoordinadora: Elena Fernández (Universidad de Cádiz)\nA camino entre la localización y los problemas de rutas están los problemas de localización de concentradores (hubs) y aquellos de gestión logística en puertos. El auge de los últimos años, tanto por el desarrollo de modelos y técnicas como en las importantes aplicaciones a nivel logístico que tienen, le han dado un lugar privilegiado en el estudio de este tipo de sistemas logísticos. La combinación de rutas, con decisiones de diseño, hacen de estos problemas un gran reto a nivel matemático, tanto desde el punto de vista del modelado como de su resolución eficiente. El grupo ha liderado propuestas con una gran repercusión internacional, y que han afectado a cómo se gestionan actualmente muchos de estos modelos . La construcción de modelos realistas, el estudio poliédrico de los problemas de programación lineal entera que se derivan, el diseño de estrategias de ramificación, corte y pricing para la resolución eficiente de los problemas, son algunos de los objetivos de este grupo.\nOtros Miembros: M Muñoz, M Arana, CA Domínguez, N Zerega (UCA), I. Ljubic, C. Archetti, D (ESSEC)",
+    "crumbs": [
+      "Investigación"
+    ]
+  },
+  {
+    "objectID": "research.html#gestión-óptima-del-transporte",
+    "href": "research.html#gestión-óptima-del-transporte",
+    "title": "Investigación",
+    "section": "Gestión Óptima del Transporte",
+    "text": "Gestión Óptima del Transporte\n\nCoordinador: David Canca (Universidad de Sevilla)\nUno de los mayores éxitos de la Investigación Operativa y otras áreas de la Matemática Aplicada ha sido la aplicación de sus modelos y métodos de resolución en el campo de la planificación en transportes. Por otra parte, este campo genera problemas, a menudo muy complejos, que inspiran nuevas metodologías de modelación y resolución. Quizás el área más importante de la planificación en transportes es la de los pasajeros. Diariamente millones de personas se mueven en transportes colectivos entre ciudades o en áreas metropolitanas. La organización eficiente de los recursos para la movilidad requiere el uso de sofisticadas metodologías matemáticas. En particular, el Análisis de Localizaciones proporciona modelos y métodos de resolución para localizar los puntos de acceso y la conexión entre los mismos, en los sistemas de transporte. La Ciencia de la Localización proporciona metodologías y otras herramientas a la resolución de los problemas de la operación de los sistemas de transporte.\nOtros Miembros: JA Mesa, F. Ortega, F. Perea, A. De los Santos, R. Piedra, N. Gonzalez-Blanco, G. Marseglia, M. Calvo, PL González, M. Calle-Suárez, JL Andrade, JM Leon Blanco, MC. Lopez de los Mozos (US), E. Barrena (UPO), A. Zarzo (UPM).",
+    "crumbs": [
+      "Investigación"
+    ]
+  },
+  {
+    "objectID": "research.html#logística-humanitaria",
+    "href": "research.html#logística-humanitaria",
+    "title": "Investigación",
+    "section": "Logística Humanitaria",
+    "text": "Logística Humanitaria\n\nCoordinadora: Teresa Ortuño (Universidad Complutense de Madrid)\nLa logística humanitaria es un tipo de logística enfocada a aliviar el sufrimiento de las personas vulnerables. Estas características específicas se pueden agrupar en tres grandes rasgos: decisores, objetivos estratégicos e incertidumbre. Las metas estratégicas y las medidas de desempeño de la logística humanitaria también son específicas, siendo la prioridad más característica la eficacia (sobre la eficiencia). Es por esto, que, al diseñar modelos de apoyo a la decisión en este contexto, es importante tener en cuenta que un logístico humanitario no puede valorar sólo económicamente el logro de objetivos. Además, la incertidumbre y la presión del tiempo son variables que determinan el entorno en el que se deben tomar decisiones, con alta relevancia durante la gestión de un desastre. El gran reto de este grupo es el desarrollo de modelos de decisión que integrados con los sistemas de información disponibles den respuesta a las distintas fases de la gestión de desastres.\nOtros Miembros: G Tirado, JM Ferrer, A. Rodríguez, B. Vitoriano, J Martin-Campo, B. Granada, J. León, J. Barreal (UCM), Federico Liberatore (Cardiff University)",
+    "crumbs": [
+      "Investigación"
+    ]
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Miembros",
+    "section": "",
+    "text": "ESSEC Bussiness School\n\nIvana Ljubic\nClaudia Archetti\n\nKarlsruhe Institute of Technology\n\nStephan Nickel\n\nUniversidad Autónoma de Madrid\n\nP. Martínez\nJ. López\n\nUniversidad Autónoma de Nuevo León\n\nRoger Ríos\nFernando Camacho\n\nUniversidad Complutense de Madrid\n\nTeresa Ortuño\nGregorio Tirado\nJosé María Ferrer\nBegoña Vitoriano\nA. Rodríguez\nJavier Martin-Campo\nBibiana Granada\nJavier León\nJesús Barreal\n\nUniversidad Heidelberg\n\nG. Reinelt\n\nUniversidad Miguel Hernández de Elche\n\nMercedes Landete\nJavier Alcaraz\nJuan Francisco Monge\nJose Luis Sainz-Pardo\nMarina Leal\nLaura Antón\nAlejandro Moya\nLorena Nacher\n\nUniversidad Niccolò Cusano\n\nAndrea Scozzari\n\nUniversidad Pablo de Olavide\n\nEva Barrena\n\nUniversidad Politècnica de Catalunya\n\nMaria Albareda\nEsteve Codina\nCristina Núñez\n\nUniversidad Politécnica de Valencia\n\nJose Manuel Sanchís\n\nUniversidad Pompeu Fabra\n\nAlberto Santini\nJ. Rodríguez\n\nUniversidad Rey Juan Carlos\n\nAntonio Alonso Ayuso\nCeleste Pizarro\nLaureano Escudero\nD. Heredia\n\nUniversidad de Cardiff\n\nFederico Liberatore\n\nUniversidad de Cádiz\n\nAntonio M. Rodríguez Chía\nAntonia Castaño\nMarta Baldomero\nInma Espejo\nLuisa Martínez\nJuan Manuel Muñoz\nTeresa Navarro\nRaúl Páez\nConcepción Valero\nElena Fernández\nManuel Muñoz Márquez\nManuel Arana\nNicolás Zerega\n\nUniversidad de Edimburgo\n\nSergio García-Quiles\nJörg Kalsics\n\nUniversidad de Granada\n\nVíctor Blanco\nRomán Salmerón\nAlessio Gaggero\nCatalina García\nT. García\nMiguel A. Martinez\nGabriel Gonzalez\nRicardo Gázquez\n\nUniversidad de La Sapienza\n\nLavinia Amorosi\nFederica Ricca\n\nUniversidad de Las Palmas de Gran Canarias\n\nDolores R. Santos Peñate\nPablo Dorta González\nManrique de Lara Peñate\nRafael R. Suárez\n\nUniversidad de Murcia\n\nBlas Pelegrín\nAlfredo Marín\nJosé Fernández Hernández\nPascual Fernández Hernández\nConcepción D. Sanchez\n\nUniversidad de Málaga\n\nEligius M. T. Hendrix\n\nUniversidad de Navarra\n\nJavier Elizalde\n\nUniversidad de Sevilla\n\nJusto Puerto\nYolanda Hinojosa\nMiguel A. Pozo\nDiego Ponce\nAlberto Torrejón\nFrancisco Temprano\nCarlos Valverde\nDavid Canca\nJuan Antonio Mesa\nFrancisco Ortega\nFederico Perea\nAlicia De los Santos\nRamón Piedra\nNatividad Gonzalez-Blanco\nG. Marseglia\nMaría Calvo\nPL González\nM. Calle-Suárez\nJose Luis Andrade\nJose M. Leon Blanco\nMaria Cruz Lopez de los Mozos\n\nUniversidad de Sheffield\n\nFrancisco Saldanha\nDiego Ruiz\n\nUniversidad de Szeged\n\nB.G. Toth\n\nUniversidad de Trento\n\nStefano Benati\n\nUniversidad de Valencia\n\nEnrique Benavent\nMiguel Reula\nPaula Segura\nJuan José Peiró\n\nUniversidad de Wisconsin-Madison\n\nJeff Linderoth\nAlberto Del Pia\n\nUniversidad de Zaragoza\n\nHerminia I. Calvete\nCarmen Galé\nJosé A. Iranzo\n\nUniversidad de la Laguna\n\nJuan José Salazar\nHipolito Hernández\nJorge Riera\nInmaculada Rodríguez\nDavid Pérez\nIsabel Dorta\n\nUniversidad de las Américas Puebla\n\nJuan Díaz",
+    "crumbs": [
+      "Miembros"
+    ]
+  },
+  {
+    "objectID": "news.html#closing-iwoloca-xiii-and-presentation-of-iwoloca-xiv-jointly-organized-with-the-30th-ewgla-meeting",
+    "href": "news.html#closing-iwoloca-xiii-and-presentation-of-iwoloca-xiv-jointly-organized-with-the-30th-ewgla-meeting",
+    "title": "Noticias",
+    "section": "Closing IWOLOCA XIII and presentation of IWOLOCA XIV (jointly organized with the 30th EWGLA meeting)",
+    "text": "Closing IWOLOCA XIII and presentation of IWOLOCA XIV (jointly organized with the 30th EWGLA meeting)\nThe XXX Meeting of EURO Working Group on Locational Analysis will take place in Jerez de la Frontera (Spain) from 17 to 19 September 2025. This is a periodic meeting of EWGLA which gathers researchers focused on Locational Analysis and its applications. Theoretical contributions (concepts, methods, etc.), applied research, and presentations of software, are welcome. Communications, discussions or surveys on new applications, open problems, connections between the field of location theory and related areas are of interest.",
+    "crumbs": [
+      "Noticias"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiii.html#confirmed-speakers",
+    "href": "01-iwolocaxiii.html#confirmed-speakers",
+    "title": "IWOLOCA XIII",
+    "section": "Confirmed Speakers",
+    "text": "Confirmed Speakers\n\nJim Luedtke (University of Wisconsin - Madison)\nAlfredo Marín (Universidad de Murcia)\nSibel Salman (Koç University)",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIII"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiii.html#schedule",
+    "href": "01-iwolocaxiii.html#schedule",
+    "title": "IWOLOCA XIII",
+    "section": "Schedule",
+    "text": "Schedule\nThe definitive program for the conference is available here: Schedule\nThe proceedings for the Workshop can be downloaded here: Proceedings IWOLOCA24",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIII"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiii.html#venue",
+    "href": "01-iwolocaxiii.html#venue",
+    "title": "IWOLOCA XIII",
+    "section": "Venue",
+    "text": "Venue\nThe workshop will be held at the Institute of Mathematics (IMAG) - Universidad de Granada and Carmen de la Victoria (Salón de Actos)",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIII"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiii.html#list-of-topics",
+    "href": "01-iwolocaxiii.html#list-of-topics",
+    "title": "IWOLOCA XIII",
+    "section": "List of Topics",
+    "text": "List of Topics\n\nFacility and Hub Location\nNetwork Design\nApplications to Machine Learning\nTransportation\nHumanitarian Logistics",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIII"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiii.html#social-activities",
+    "href": "01-iwolocaxiii.html#social-activities",
+    "title": "IWOLOCA XIII",
+    "section": "Social Activities",
+    "text": "Social Activities\nAs part of the social side of the conference, we will have during the conference: a wellcome cocktail, a guided visit, a tapas tour, and a gala dinner.",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIII"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiii.html#committees",
+    "href": "01-iwolocaxiii.html#committees",
+    "title": "IWOLOCA XIII",
+    "section": "Committees",
+    "text": "Committees\n\nProgram Committee\n\nMari Albareda, (Universidad Politécnica de Cataluña).\nVíctor Blanco (Universidad de Granada).\nDavid Canca (Universidad de Sevilla).\nElena Fernández (Universidad de Cádiz)\nSergio García Quiles (University of Edinburgh).\nJörg Kalcsics (University of Edinburgh).\nMercedes Landete (Universidad Miguel Hernández Elche).\nTeresa Ortuño (Universidad Complutense de Madrid).\nBlas Pelegrín (Universidad de Murcia).\nJusto Puerto (Universidad de Seville).\nJuan José Salazar (Universidad de La Laguna).\n\n\n\nLocal Organizing Committee\n\nMarta Baldomero (Universidad de Cádiz)\nVíctor Blanco (Universidad de Granada) - Chair\nRicardo Gázquez (Universidad Carlos III Madrid)\nGabriel González (Universidad de Granada)\nMiguel Martínez-Antón (Universidad de Granada)\nLuisa Martínez-Merino (Universidad de Cádiz)\nRomán Salmerón (Universidad de Granada)\nFrancisco Temprano (Universidad de Sevilla)\nAlberto Torrejón (Universidad de Sevilla)\n\n\n\nContact\nAll questions about submissions should be emailed to iwoloca@gmail.com\n\n\nSponsors",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIII"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiv.html",
+    "href": "01-iwolocaxiv.html",
+    "title": "IWOLOCA XIV - EWGLA XXX",
+    "section": "",
+    "text": "XXX EURO Working Group on Locational Analysis Meeting and XIII International Workshop on Locational Analysis and Related Problems\nThe XXX Meeting of EURO Working Group on Locational Analysis will take place in Jerez de la Frontera (Spain) from 17 to 19 September 2025. This is a periodic meeting of EWGLA which gathers researchers focused on Locational Analysis and its applications. Theoretical contributions (concepts, methods, etc.), applied research, and presentations of software, are welcome. Communications, discussions or surveys on new applications, open problems, connections between the field of location theory and related areas are of interest.\nWeb page",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIV - EWGLA XXX"
+    ]
+  }
+]
