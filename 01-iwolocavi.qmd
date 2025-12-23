@@ -1,0 +1,121 @@
+--- 
+title: "IWOLOCA VI" 
+page-layout: full 
+toc: false 
+css: style/estilo.css 
+---
+
+### VI International Workshop on Locational Analysis and Related Problems  
+**Barcelona, 25–27 November 2015**  
+Contact: [antonio.rodriguezchia@uca.es](mailto:antonio.rodriguezchia@uca.es)
+
+::: {.panel-tabset}
+
+## Welcome
+
+![](images/poster2015.png)
+
+**Welcome,**  
+The **International Workshop on Locational Analysis and Related Problems** was held in **Barcelona (Spain) on 25–27 November 2015**.  
+This activity was organized by the **Spanish Network on Location and Related Problems** and **GELOCA**, the SEIO working group on Location. These organizations involve Spanish researchers focused on locational analysis and related problems, distributed among several Spanish universities.  
+
+The topics of interest include location models, networks, transportation, logistics, exact and heuristic solution methods, and computational geometry.  
+Researchers and practitioners were invited to present works in the form of oral communications or posters. Submission of a short abstract was required for participation.
+
+### Committees
+
+#### Scientific Committee
+- Emilio Carrizosa (U. de Sevilla)
+- Ángel Corberán (U. de Valencia)
+- Elena Fernández Aréizaga (U. Politécnica de Cataluña)
+- Alfredo Marín Pérez (U. de Murcia)
+- Juan A. Mesa (U. de Sevilla)
+- Blas Pelegrín (U. de Murcia)
+- Justo Puerto Albandoz (U. de Sevilla)
+- Antonio M. Rodríguez-Chía (U. de Cádiz)
+
+#### Organizing Committee
+- María Albareda-Sambola (U. Politécnica de Cataluña)
+- Luisa Martínez-Merino (U. de Cádiz)
+- Francisco A. Ortega (U. de Sevilla)
+- Dolores R. Santos Peñate (U. de Las Palmas de G.C.)
+
+---
+
+## Proceedings
+
+The book of abstracts can be visited in [here](https://arxiv.org/abs/2002.08287).
+
+![](images/IWO_VI_book.png)
+
+---
+
+
+## Important Dates
+
+### June 30th
+**Abstract submission**  
+Templates for submitting abstract available [here](pdf/UsefulInformation2015.pdf)
+
+### July 15th
+**Notification Authors**
+
+## Program
+
+### Program Overview
+The total time allocated to each speaker was 20 minutes, including time for questions and audience participation.  
+- [Program overview PDF](pdf/program_overview2015.pdf)  
+
+### Wednesday
+- **17:10 - 17:40** – REGISTRATION  
+- **17:40 - 18:10** – Opening Session  
+- **18:10 - 19:50** – Session 1: Discrete Location  
+- **20:00** – Welcome Reception  
+
+### Thursday
+- **9:00 - 10:40** – Session 2: Continuous Location  
+- **10:40 - 11:10** – Coffee break  
+- **11:10 - 12:30** – Invited speaker: Matteo Fischetti  
+- **12:30 - 13:45** – Session 3: Location on Networks  
+- **13:45 - 15:30** – Lunch  
+- **15:30 - 17:10** – Session 4: Discrete Location  
+- **17:10 - 17:40** – Coffee Break  
+- **17:40 - 18:55** – Session 5: Location on Networks  
+- **20:00** – Welcome Reception Dinner  
+
+### Friday
+- **9:00 - 10:40** – Session 6: Discrete Location  
+- **10:40 - 11:10** – Coffee break  
+- **11:10 - 12:30** – Invited speaker: M. Grazia Speranza  
+- **12:30 - 13:45** – Session 7: Routing Problems  
+- **13:45 - 14:30** – Location Network Meeting  
+- **14:30 - 15:30** – Lunch  
+
+## Registration
+The registration and accommodation request procedure was similar to previous meetings. Attendants had to fill in the registration form and pay 100 euros for conference costs by bank transfer.  
+
+Reservation included 25 rooms financed by the Network at [RESIDENCIA TORRE GIRONA](http://www.resa.es/Residencias/Torre-Girona). Funding was assigned in order of accommodation request, prioritizing doctoral students.  
+
+- [Registration and accommodation form (PDF)](pdf/inscripcion2015.pdf)
+
+## Lectures
+
+### Matteo Fischetti
+DEI, Dipartimento di Ingegneria dell’Informazione, University of Padova  
+[http://www.dei.unipd.it/~fisch/](http://www.dei.unipd.it/~fisch/)
+
+### M. Grazia Speranza
+Dipartimento di Economia e Management, University of Brescia  
+[http://www.unibs.it/dipartimenti/metodi-quantitativi/personale-del-dipartimento/professori-ordinari-e-straordinari/profssa-speranza-m-grazia](http://www.unibs.it/dipartimenti/metodi-quantitativi/personale-del-dipartimento/professori-ordinari-e-straordinari/profssa-speranza-m-grazia)
+
+## Venue
+
+**Campus Diagonal Sud, Edificio U, C. Pau Gargallo, 5, 08028 Barcelona**
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.569731567717!2d2.113554315037481!3d41.38343200420401!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDHCsDIzJzAwLjMiTiAywrAwNic1Ni43IkU!5e0!3m2!1ses!2sus!4v1490215149188" width="100%" height="300" style="border:0;" allowfullscreen></iframe>
+
+## Sponsorship
+
+![](images/logos-ws/logo_imus.png) ![](images/logos-ws/logo_REDLOCA.jpg) ![](images/logos-ws/logo_mineco.jpg) ![](images/logos-ws/logo_geloca.png) ![](images/logos-ws/logo_euro.jpg) ![](images/logos-ws/logo_SEIO.png) ![](images/logos-ws/logo_UCA.jpg) ![](images/logos-ws/logo_UPC.jpg)
+
+:::

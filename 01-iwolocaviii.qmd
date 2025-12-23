@@ -1,0 +1,187 @@
+---
+title: "IWOLOCA VIII"
+page-layout: full
+toc: false
+css: style/estilo.css
+---
+
+### VIII International Workshop on Locational Analysis and Related Problems
+
+**Segovia (Spain), 27–29 September 2017**
+
+Contact: [antonio.rodriguezchia@uca.es](mailto:antonio.rodriguezchia@uca.es)
+
+::: {.panel-tabset}
+
+## Welcome
+
+![](images/poster_REDLOCA2017.jpg)
+
+**Welcome,**
+
+The **International Workshop on Locational Analysis and Related Problems** took place on  
+**September 27–29, 2017 in Segovia (Spain)**.
+
+It was organized by the **Spanish Location Network** and **GELOCA**, the SEIO working group on Location.  
+GELOCA belongs to the **Spanish Society of Statistics and Operations Research (SEIO)**.
+
+The Spanish Location Network is composed of more than **100 researchers**, distributed among several Spanish universities, and has been funded by the **Spanish Government**.
+
+The aim of the workshop is to promote communication among researchers and to contribute to the development of **locational analysis and related problems**.  
+The previous meeting was held in **Málaga (September 14–16, 2016)**.
+
+The topics of interest include location models, networks, transportation, logistics, exact and heuristic solution methods, and computational geometry.
+
+Researchers and practitioners were invited to present works in the form of **oral communications or posters**.  
+For participation, the submission of a **short abstract** was required.
+
+### Committees
+
+#### Scientific Committee
+
+- Emilio Carrizosa (Universidad de Sevilla)
+- Ángel Corberán (Universidad de Valencia)
+- Elena Fernández (Universidad Politécnica de Cataluña)
+- Alfredo Marín (Universidad de Murcia)
+- Juan A. Mesa (Universidad de Sevilla)
+- Blas Pelegrín (Universidad de Murcia)
+- Justo Puerto (Universidad de Sevilla)
+- Antonio M. Rodríguez-Chía (Universidad de Cádiz)
+- Diego Ruiz Hernández (CUNEF)
+
+#### Organizing Committee
+
+- Inmaculada Espejo Miranda
+- Luisa Isabel Martínez Merino
+- Belén Palop del Río
+- Dolores R. Santos Peñate
+
+------------------------------------------------------------------------
+
+## Proceedings
+
+The book of abstracts can be visited in [here](https://arxiv.org/abs/2002.08293).
+
+![](images/IWO_VIII_book.png)
+
+---
+
+## Important Dates
+
+### May 31st
+
+**Deadline for abstract submission**
+
+A short abstract in English had to be sent by email to:  
+[luisa.martinez@uca.es](mailto:luisa.martinez@uca.es)
+
+[Templates for abstract submission](template/REDLOCA_2017_latex_style_new.zip)
+
+### June 15th
+
+**Notification of acceptance**
+
+### June 30th
+
+**Final version of abstracts**
+
+### September 27–29
+
+**Workshop**
+
+------------------------------------------------------------------------
+
+## Program
+
+The total time allocated to each speaker was **20 minutes**, including questions.
+
+- [Program overview (PDF)](pdf/Program_overview_2017.pdf)
+
+### Wednesday, September 27th
+
+- **17:10 – 17:40** Registration  
+- **17:40 – 18:10** Opening session  
+- **18:10 – 19:50** Session 1: Discrete Location  
+- **21:00** Welcome reception  
+
+### Thursday, September 28th
+
+- **09:00 – 10:40** Session 2: Continuous Location  
+- **10:40 – 11:10** Coffee break  
+- **11:10 – 12:30** Invited speaker: *Pierre Bonami*  
+- **12:30 – 13:45** Session 3: Routing Problems  
+- **13:45 – 15:30** Lunch  
+- **15:30 – 17:10** Session 4: Applications  
+- **17:10 – 17:40** Coffee break  
+- **17:40 – 19:20** Session 5: Discrete Location  
+- **21:00** Conference dinner  
+
+### Friday, September 29th
+
+- **09:00 – 10:40** Session 6: Network / Territory Planning  
+- **10:40 – 11:10** Coffee break  
+- **11:10 – 12:30** Invited speaker: *James F. Campbell*  
+- **12:30 – 13:45** Session 7: Hub Location  
+- **13:45 – 14:30** Spanish Location Network meeting  
+- **14:30 – 15:30** Lunch  
+
+------------------------------------------------------------------------
+
+## Registration
+
+**Registration fee:** 50 €  
+(Includes conference attendance, lectures, coffee breaks, lunches and taxes)
+
+[Registration form (PDF)](pdf/BOLETÍN-INSCRIPCIÓN_Segovia_2017.compressed.pdf)
+
+------------------------------------------------------------------------
+
+## Lectures
+
+### Pierre Bonami
+
+Aix-Marseille Université  
+<http://pageperso.lif.univ-mrs.fr/~pierre.bonami/>
+
+**Lecture:**  
+[Some recent advances in mixed-integer nonlinear optimization](pdf/Talk_Bonami_Workshop2017.pdf)
+
+[Slides](pdf/Bonami_Segovia2017.pdf)
+
+### James F. Campbell
+
+University of Missouri–St. Louis (USA)  
+<https://business.umsl.edu/About%20the%20College/Faculty/Logistics%20and%20Operations%20Management/campbell.html>
+
+**Lecture:**  
+[Strategic Design of Drone Delivery Systems](pdf/Talk_Campbell_Workshop2017.pdf)
+
+[Slides](pdf/Campbell_Segovia2017.compressed.pdf)
+
+------------------------------------------------------------------------
+
+## Venue
+
+**Antigua Escuela de Magisterio**  
+Plaza Colmenares 1  
+40001 Segovia, Spain  
+
+- [Train lines Madrid–Segovia](pdf/horariostren_Segovia2017.pdf)
+- [Bus Madrid–Segovia](pdf/Bus_HorariosMadrid_Segovia-MadridInvierno.compressed.pdf)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3013.4046352009227!2d-4.120073984587713!3d40.950713779306646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd413edc7959421f%3A0x6cec728df45c77d4!2sPlaza+Colmenares%2C+1%2C+40001+Segovia!5e0!3m2!1ses!2ses!4v1505130999889"
+width="100%" height="300" style="border:0;" loading="lazy"></iframe>
+
+------------------------------------------------------------------------
+
+## Sponsorship
+
+![](images/logos-ws/logo_euro.jpg)
+![](images/logos-ws/logo_mineco.jpg)
+![](images/logos-ws/logo_REDLOCA.jpg)
+![](images/logos-ws/logo_geloca.png)
+![](images/logos-ws/logo_SEIO.png)
+![](images/logos-ws/logo_UCA.jpg)
+![](images/logos-ws/logo_valladolid-segovia.jpg)
+
+:::

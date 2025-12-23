@@ -1,0 +1,176 @@
+---
+title: "IWOLOCA XI"
+page-layout: full
+toc: false
+css: style/estilo.css
+---
+
+### XI International Workshop on Locational Analysis and Related Problems
+
+**Elche (Spain), 31 January – 1 February 2022**
+
+Contact: [iwoloca2022@event.upc.edu](mailto:iwoloca2022@event.upc.edu)
+
+::: {.panel-tabset}
+
+## Welcome
+
+![](images/IWO_XI_poster.jpg)
+
+**Welcome,**
+
+The **XI International Workshop on Locational Analysis and Related Problems** was held in **Elche (Spain) from January 31st to February 1st, 2022**.
+
+This workshop was organized by the **Spanish Network on Location and Related Problems** and **GELOCA**, the SEIO working group on Location. These organizations bring together Spanish researchers focused on locational analysis and related problems, organized into six thematic nodes across several Spanish universities.
+
+This edition received financial support from the **Generalitat Valenciana** through project **PROMETEO/2021/063**.
+
+The topics of interest include location models, networks, transportation, logistics, exact and heuristic solution methods, and computational geometry.
+
+Researchers and practitioners were invited to present works in the form of **oral communications or posters**.  
+For participation, the submission of a **short abstract** was required.
+
+### Committees
+
+#### Scientific Committee
+
+- María Albareda Sambola (Universitat Politècnica de Catalunya, Spain)
+- Giuseppe Bruno (Università degli Studi di Napoli Federico II, Italy)
+- Ivan Contreras (Concordia University & CIRRELT, Canada)
+- Sergio García Quiles (University of Edinburgh, United Kingdom)
+- Jörg Kalcsics (University of Edinburgh, United Kingdom)
+- Martine Labbé (Université libre de Bruxelles, Belgium)
+- Alfredo Marín (Universidad de Murcia, Spain)
+- Blas Pelegrín (Universidad de Murcia, Spain)
+- Justo Puerto (Universidad de Sevilla, Spain)
+- Antonio M. Rodríguez Chía (Universidad de Cádiz, Spain)
+- Francisco Saldanha (Universidade de Lisboa, Portugal)
+
+#### Organizing Committee
+
+- María Albareda Sambola (Universitat Politècnica de Catalunya)
+- Javier Alcaraz Soria (Universidad Miguel Hernández)
+- Laura Antón Sánchez (Universidad Miguel Hernández)
+- Marta Baldomero Naranjo (Universidad de Cádiz)
+- Mercedes Landete Ruiz (Universidad Miguel Hernández)
+- Marina Leal Palazón (Universidad Miguel Hernández)
+- Juan Francisco Monge Ivars (Universidad Miguel Hernández)
+- Alejandro Moya Martínez (Universidad Miguel Hernández)
+- Juan Manuel Muñoz Ocaña (Universidad de Cádiz)
+- Jessica Rodríguez Pereira (Universitat Pompeu Fabra)
+- Dolores R. Santos Peñate (Universidad de Las Palmas de Gran Canaria)
+- José Luiz Sainz-Pardo Auñón (Universidad Miguel Hernández)
+
+---
+
+## Proceedings
+
+The book of abstracts can be visited in [here](https://arxiv.org/abs/2202.13878).
+
+![](images/IWO_XI_book.png)
+
+---
+
+## Important Dates
+
+### December 6th (extended to December 12th)
+
+**Abstract submission**
+
+A short abstract in English had to be sent by email to:  
+[iwoloca2022@event.upc.edu](mailto:iwoloca2022@event.upc.edu)
+
+[Templates for abstract submission](template/templateREDLOCA2022.zip)
+
+### December 15th
+
+**Notification of acceptance**
+
+### December 22nd
+
+**Registration deadline**
+
+------------------------------------------------------------------------
+
+## Program
+
+The total time allocated to each speaker was **20 minutes**, including discussion.
+
+[Program and Abstracts (PDF)](pdf/IWOLOCA2022_program.pdf)
+
+### Monday, January 31st
+
+- **09:00 – 09:30** Registration  
+- **09:30 – 09:45** Opening Session  
+- **09:45 – 11:05** Session I: Facility Location I  
+- **11:05 – 11:35** Coffee Break  
+- **11:35 – 12:35** Invited Speaker: Hande Yaman  
+- **12:35 – 15:30** Social Event + Lunch  
+- **15:30 – 16:30** Session II: Applications I  
+- **16:30 – 17:00** Coffee Break  
+- **17:00 – 18:00** Session III: Multiperiod Problems  
+- **18:00 – 19:00** Network Meeting  
+
+### Tuesday, February 1st
+
+- **09:45 – 11:05** Session IV: Routing  
+- **11:05 – 11:35** Coffee Break  
+- **11:35 – 12:35** Invited Speaker: Juan A. Mesa  
+- **12:35 – 13:45** Session V: Applications II  
+- **13:45 – 15:30** Lunch  
+- **15:30 – 16:30** Session VI: Network Design  
+- **16:30 – 17:00** Coffee Break  
+- **17:00 – 18:00** Session VII: Covering Problems  
+- **21:00** Conference Dinner  
+
+------------------------------------------------------------------------
+
+## Registration
+
+The registration fee was **100 €**, covering:
+
+- Conference attendance
+- Coffee breaks
+- Lunches
+- Conference dinner
+- Taxes
+
+[Registration form](https://forms.gle/PEGsES3JFEp9Bgmt7)
+
+Payment by bank transfer:
+
+- **Bank:** CaixaBank  
+- **Recipient:** UPC_IWOLOCA2022  
+- **IBAN:** ES57 2100 0655 7502 0025 9008  
+
+------------------------------------------------------------------------
+
+## Lectures
+
+### Juan Antonio Mesa López-Colmenar
+
+Departamento de Matemática Aplicada II  
+Universidad de Sevilla
+
+### Hande Yaman Paternotte
+
+Faculty of Economics and Business  
+KU Leuven
+
+------------------------------------------------------------------------
+
+## Venue
+
+**Centro de Congresos Ciutat d’Elx**  
+Elche, Spain
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3132.6728423704585!2d-0.6977442838889829!3d38.26389309163882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63b68d3015fb67%3A0x8a5d9268d846445c!2sCentro%20de%20Congresos%20de%20Elche!5e0!3m2!1ses!2ses!4v1639741433553!5m2!1ses!2ses"
+width="100%" height="300" style="border:0;" loading="lazy"></iframe>
+
+------------------------------------------------------------------------
+
+## Sponsorship
+
+![](images/IWO_XI_sponsor.png)
+
+:::

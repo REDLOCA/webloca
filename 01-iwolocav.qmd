@@ -1,0 +1,153 @@
+--- 
+title: "IWOLOCA V" 
+page-layout: full 
+toc: false 
+css: style/estilo.css 
+---
+
+### V International Workshop on Locational Analysis and Related Problems 2014
+**Sevilla (Spain), 1–3 October 2014**  
+Contact: [drsantos@dmc.ulpgc.es](mailto:drsantos@dmc.ulpgc.es)
+
+::: {.panel-tabset}
+
+## Welcome
+![](images/poster2014.jpg)
+
+**Welcome,**  
+
+The **International Workshop on Locational Analysis and Related Problems** took place during **1–3 October 2014 in Sevilla (Spain)**. It was organized by the **Spanish Location Network and Location Group GELOCA (SEIO)**, a group of over 140 researchers distributed across 16 Spanish universities. The network organizes annual meetings to promote communication among researchers and contribute to the development of location analysis and related problems. The previous meeting was held in Málaga in June 2013, celebrating the network's 10th anniversary.  
+
+Topics of interest included location models, networks, transportation, logistics, exact and heuristic solution methods, and computational geometry. Researchers and practitioners presented works as oral communications or posters. Participation required submission of a short abstract.
+
+### Committees
+
+#### Scientific Committee
+- Emilio Carrizosa (U. de Sevilla)
+- A. Corberán (U. de Valencia)
+- José Miguel Díaz Báñez (U. de Sevilla)
+- Elena Fernández Aréizaga (U. Politécnica de Cataluña)
+- Alfredo Marín Pérez (U. de Murcia)
+- Juan A. Mesa (U. de Sevilla)
+- José A. Moreno Pérez (U. de La Laguna)
+- Justo Puerto Albandoz (U. de Sevilla)
+- Antonio M. Rodríguez-Chía (U. de Cádiz)
+- Dolores R. Santos Peñate (U. de Las Palmas de Gran Canaria)
+
+#### Organizing Committee
+- E. Carrizosa (U. de Sevilla)
+- José Miguel Díaz‐Báñez (U. de Sevilla)
+- Pablo Dorta González (U. de Las Palmas de G.C.)
+- I. Espejo (U. de Cádiz)
+- Elena Fernández Aréizaga (U. Politécnica de Cataluña)
+- José A. Moreno Pérez (U. de La Laguna)
+- Francisco A. Ortega (U. de Sevilla)
+- Justo Puerto Albandoz (U. de Sevilla)
+- Antonio Manuel Rodríguez Chía (U. de Cádiz)
+- M. Carmen Sánchez Gil (U. de Cádiz)
+- Dolores R. Santos Peñate (U. de Las Palmas de G.C.)
+- Rafael R. Suárez Vega (U. de Las Palmas de G.C.)
+- Concepción Valero (U. de Cádiz)
+
+------------------------------------------------------------------------
+
+## Important Dates
+
+### July 20th
+**Extended deadline for abstract submission**  
+A short abstract in English must be sent by e-mail to [drsantos@dmc.ulpgc.es](mailto:drsantos@dmc.ulpgc.es)
+
+### July 25th
+**Notification of acceptance**
+
+### July 30th
+**Final version of abstracts**
+
+------------------------------------------------------------------------
+
+## Program
+
+### Program overview
+Total time allocated to each speaker was 20 minutes, including time for questions and audience participation.  
+[Program and Abstracts](pdf/abstracts2014.pdf)
+
+### Wednesday
+- **18:00 - 18:30** – Registration  
+- **18:30 - 19:00** – Opening Session  
+- **19:00** – Welcome Reception  
+
+### Thursday
+- **9:00 - 11:05** – Session 1  
+- **11:05 - 11:35** – Coffee break  
+- **11:35 - 12:35** – Invited speaker: [Martine Labbé](https://www.imus.us.es/es/actividad/1443). "Network design problems in phylogenetics"  
+- **12:35 - 13:35** – Invited speaker: Andrea Scozzari. "Partitioning a graph into connected components with fixed centers and optimizing different criteria"  
+- **13:35 - 15:05** – Lunch  
+- **15:05 - 17:10** – Session 2  
+- **17:10 - 17:30** – Coffee break  
+- **18:30 - 18:45** – Session 3  
+- **20:00** – Dinner  
+
+### Friday
+- **9:00 - 11:05** – Session 4  
+- **11:05 - 11:35** – Coffee break  
+- **11:35 - 12:35** – Invited speaker: Gerhard Reinelt "Ordering problems"  
+- **12:35 - 13:30** – Red Localización Meeting  
+- **13:30 - 15:00** – Lunch  
+- **15:00 - 16:40** – Session 5  
+- **16:40** – Closing Session  
+
+------------------------------------------------------------------------
+
+## Registration
+Registration and accommodation procedure followed previous meeting rules.  
+The network financed accommodation for 25 members in “Residencia Universitaria Rector Estanislao Campo” for up to 3 nights.  
+Price per single room per night: €40.  
+
+[Registration and accommodation form](pdf/inscripcion2014.pdf)
+
+------------------------------------------------------------------------
+
+## Lectures
+
+### Martine Labbé
+Computer Science Department of Université Libre of Brussels  
+[http://homepages.ulb.ac.be/~mlabbe/](http://homepages.ulb.ac.be/%7Emlabbe/)
+
+### Gerhard Reinelt
+Discrete and Combinatorial Optimization Department, Heidelberg University  
+[http://www.iwr.uni-heidelberg.de/groups/comopt/people/reinelt/](http://www.iwr.uni-heidelberg.de/groups/comopt/people/reinelt/)
+
+### Andrea Scozzari
+Università degli Studi Niccolò Cusano - Telematica, Roma  
+[http://scholar.google.it/citations?user=4M9rLGkAAAAJ&hl](http://scholar.google.it/citations?user=4M9rLGkAAAAJ&hl)
+
+------------------------------------------------------------------------
+
+## Venue
+**IMUS Edificio Celestino Mutis, Primera planta, Campus de Reina Mercedes**  
+Avda. Reina Mercedes s/n, 41012 Sevilla, Spain  
+
+- **Phone:** +34 955 420 839  
+- **Fax:** +34 954556247  
+- **Email:** [admin-imus@us.es](mailto:admin-imus@us.es)  
+- **Hours:** L-V: 9.30–13.00 & L-J: 16.30–18.30  
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3171.300149001551!2d-5.989157684471686!3d37.359074243739414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDIxJzMyLjYiTiA1wrA1OScxMy4xIlc!5e0!3m2!1ses!2ses!4v1490213256100" width="100%" height="300" style="border:0;" loading="lazy"></iframe>
+
+------------------------------------------------------------------------
+
+## Sponsorship
+
+![](images/logos-ws/logo_imus.png)
+![](images/logos-ws/logo_REDLOCA.jpg)
+![](images/logos-ws/logo_mineco.jpg)
+![](images/logos-ws/logo_geloca.png)
+![](images/logos-ws/logo_euro.jpg)
+![](images/logos-ws/logo_SEIO.png)
+![](images/logos-ws/logo_US.png)
+![](images/logos-ws/logo_UCA.jpg)
+![](images/logos-ws/logo_ulpgc.jpg)
+
+------------------------------------------------------------------------
+
+:::

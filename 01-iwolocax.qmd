@@ -1,0 +1,192 @@
+---
+title: "IWOLOCA X"
+page-layout: full
+toc: false
+css: style/estilo.css
+---
+
+### X International Workshop on Locational Analysis and Related Problems
+
+**Seville (Spain), 23–24 January 2020**
+
+Contact: [iwoloca2020@us.es](mailto:iwoloca2020@us.es)
+
+::: {.panel-tabset}
+
+## Welcome
+
+![](images/cartel_IWOLOCA_2020.jpg)
+
+**Welcome,**
+
+The **X International Workshop on Locational Analysis and Related Problems** took place on **January 23–24, 2020 in Seville (Spain)**.
+
+The workshop was organized by the **Spanish Network on Location and Related Problems** and **GELOCA**, the SEIO working group on Location.  
+The Spanish Location Network is composed of more than 140 researchers, organized in six thematic nodes and distributed among several Spanish universities.
+
+The aim of the workshop is to promote communication among researchers and to contribute to the development of **locational analysis and related problems**.  
+The previous meeting was held in **Cádiz (January 30 – February 1, 2019)**.
+
+The topics of interest include location models, networks, transportation, logistics, exact and heuristic solution methods, and computational geometry.
+
+Researchers and practitioners were invited to present works in the form of **oral communications or posters**.  
+For participation, the submission of a **short abstract** was required.
+
+### Committees
+
+#### Scientific Committee
+
+- María Albareda Sambola (Universitat Politècnica de Catalunya, Spain)
+- Giuseppe Bruno (Università degli Studi di Napoli Federico II, Italy)
+- Jörg Kalcsics (University of Edinburgh, United Kingdom)
+- Martine Labbé (Université libre de Bruxelles, Belgium)
+- Ivana Ljubić (ESSEC, France)
+- Alfredo Marín (Universidad de Murcia, Spain)
+- Juan A. Mesa (Universidad de Sevilla, Spain)
+- Stefan Nickel (Karlsruher Institut für Technologie, Germany)
+- Blas Pelegrín (Universidad de Murcia, Spain)
+- Justo Puerto (Universidad de Sevilla, Spain)
+- Antonio M. Rodríguez Chía (Universidad de Cádiz, Spain)
+- Francisco Saldanha (Universidade de Lisboa, Portugal)
+
+#### Organizing Committee
+
+- María Albareda Sambola (Universitat Politècnica de Catalunya)
+- Marta Baldomero Naranjo (Universidad de Cádiz)
+- Yolanda Hinojosa (Universidad de Sevilla)
+- Alberto Japón (Universidad Pablo de Olavide)
+- Luisa I. Martínez Merino (Universidad de Sevilla)
+- Francisco A. Ortega Riejos (Universidad de Sevilla)
+- Diego Ponce (Universidad de Sevilla)
+- Miguel A. Pozo (Universidad de Sevilla)
+- Justo Puerto (Universidad de Sevilla)
+- Victoria Rebillas (Universitat Politècnica de Catalunya)
+- Moisés Rodríguez Madrena (Universidad de Sevilla)
+- Dolores R. Santos Peñate (Universidad de Las Palmas de Gran Canaria)
+
+------------------------------------------------------------------------
+
+## Proceedings
+
+The book of abstracts can be visited in [here](https://arxiv.org/abs/2002.01702).
+
+![](images/IWO_X_book.png)
+
+---
+
+## Important Dates
+
+### November 7th  
+*(extended until November 14th)*
+
+**Deadline for abstracts**
+
+A short abstract in English had to be sent by email to:  
+[iwoloca2020@us.es](mailto:iwoloca2020@us.es)
+
+[Templates for abstract submission](template/REDLOCA_2020_latex_style.zip)
+
+### November 22nd
+
+**Notification of acceptance**
+
+### December 7th  
+*(extended until December 14th)*
+
+**Final version of abstracts and registration deadline**
+
+------------------------------------------------------------------------
+
+## Program
+
+The total time allocated to each speaker was **20 minutes**, including questions.
+
+- [Program and Abstracts (PDF)](pdf/Program_2020.pdf)  
+
+### Thursday, January 23rd
+
+- **08:45 – 09:15** Registration  
+- **09:15 – 09:30** Opening Session  
+- **09:30 – 11:30** Session 1  
+- **11:30 – 12:00** Coffee Break  
+- **12:00 – 12:50** Invited Speaker: *Stefano Benati*  
+- **13:00 – 14:00** Session 2  
+- **14:00 – 15:30** Lunch  
+- **15:30 – 16:30** Session 3  
+- **16:30 – 17:00** Coffee Break  
+- **17:00 – 18:40** Session 4  
+- **19:30** Social Event  
+
+### Friday, January 24th
+
+- **09:30 – 11:30** Session 5  
+- **11:30 – 12:00** Coffee Break  
+- **12:00 – 12:50** Invited Speaker: *Ángel Corberán*  
+- **13:00 – 14:00** Session 6  
+- **14:00 – 15:30** Lunch  
+- **15:30 – 16:30** Session 7  
+- **16:30 – 17:00** Coffee Break  
+- **17:00 – 18:40** Session 8  
+- **21:00** Conference Dinner  
+
+------------------------------------------------------------------------
+
+## Registration
+
+The registration fee was **100 €**, covering:
+
+- Conference attendance
+- Coffee breaks
+- Lunches
+- Conference dinner
+- Taxes
+
+[Registration and accommodation form](https://forms.gle/W5e46e9DhKEMEw2e6)
+
+**Payment by bank transfer**
+
+- **Bank:** Banco de Santander  
+- **Recipient:** Fundación de Investigación de la Universidad de Sevilla  
+- **IBAN:** ES91 0049 5854 3521 1608 5245  
+- **SWIFT (BIC):** BSCHESMMXXX  
+
+**Important:**  
+Indicate your name and *Workshop Location* in the transfer.  
+A copy of the payment receipt had to be sent to:  
+[acti2-imus@us.es](mailto:acti2-imus@us.es)
+
+------------------------------------------------------------------------
+
+## Lectures
+
+### Stefano Benati
+
+Dipartimento di Sociologia e Ricerca Sociale  
+Università di Trento, Italy  
+<http://webapps.unitn.it/du/en/Persona/PER0004309/>
+
+### Ángel Corberán
+
+Departamento de Estadística e Investigación Operativa  
+Universidad de Valencia, Spain  
+<https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=corberan&idA=true>
+
+------------------------------------------------------------------------
+
+## Venue
+
+**IMUS – Instituto de Matemáticas de la Universidad de Sevilla**  
+Edificio Celestino Mutis, Campus de Reina Mercedes  
+Avda. Reina Mercedes s/n, 41012 Seville, Spain  
+
+<https://www.imus.us.es>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=16igropJcCV1qs5BxNm8kUn9sAtw"
+width="100%" height="300" style="border:0;" loading="lazy"></iframe>
+
+------------------------------------------------------------------------
+
+## Sponsorship
+
+![](images/IWO_X_sponsor.png)
+:::

@@ -1,0 +1,187 @@
+---
+title: "IWOLOCA IX"
+page-layout: full
+toc: false
+css: style/estilo.css
+---
+
+### IX International Workshop on Locational Analysis and Related Problems
+
+**Cádiz (Spain), 30 January – 1 February 2019**
+
+Contact: [iwoloca@uca.es](mailto:iwoloca@uca.es)
+
+::: {.panel-tabset}
+
+## Welcome
+
+![](images/cartel_Congreso_2019WEB.jpg)
+
+**Welcome,**
+
+The **International Workshop on Locational Analysis and Related Problems** took place on **January 30 – February 1, 2019 in Cádiz (Spain)**.
+
+It was organized by the **Spanish Location Network** and **GELOCA**, the SEIO working group on Location.  
+The Spanish Location Network is composed of more than **140 researchers**, distributed among several Spanish universities.
+
+The aim of the workshop is to promote communication among researchers and to contribute to the development of **locational analysis and related problems**.  
+The previous meeting was held in **Segovia (September 27–29, 2017)**.
+
+The topics of interest include location models, networks, transportation, logistics, exact and heuristic solution methods, and computational geometry.
+
+Researchers and practitioners were invited to present works in the form of **oral communications**.  
+For participation, the submission of a **short abstract** was required.
+
+### Committees
+
+#### Scientific Committee
+
+- María Albareda Sambola (Universidad Politécnica de Cataluña)
+- Giuseppe Bruno (Università degli Studi di Napoli Federico II)
+- Ángel Corberán (Universidad de Valencia)
+- Elena Fernández Aréizaga (Universidad Politécnica de Cataluña)
+- Jörg Kalcsics (University of Edinburgh)
+- Martine Labbé (Université Libre de Bruxelles)
+- Alfredo Marín Pérez (Universidad de Murcia)
+- Juan A. Mesa (Universidad de Sevilla)
+- Stefan Nickel (Karlsruhe Institute of Technology)
+- Justo Puerto Albandoz (Universidad de Sevilla)
+- Antonio M. Rodríguez-Chía (Universidad de Cádiz)
+
+#### Organizing Committee
+
+- Marta Baldomero Naranjo (Universidad de Cádiz)
+- Inmaculada Espejo Miranda (Universidad de Cádiz)
+- Luisa I. Martínez Merino (Universidad de Cádiz)
+- Manuel Muñoz Márquez (Universidad de Cádiz)
+- Juan Manuel Muñoz Ocaña (Universidad de Cádiz)
+- Antonio M. Rodríguez-Chía (Universidad de Cádiz)
+- Dolores R. Santos Peñate (Universidad de Las Palmas de Gran Canaria)
+- Concepción Valero Franco (Universidad de Cádiz)
+
+------------------------------------------------------------------------
+
+## Proceedings
+
+The book of abstracts can be visited in [here](https://arxiv.org/abs/2002.08300).
+
+![](images/IWO_IX_book.png)
+
+---
+
+## Important Dates
+
+### October 31st
+
+**Deadline for abstracts**
+
+A short abstract in English had to be sent by email to:  
+[iwoloca@uca.es](mailto:iwoloca@uca.es)
+
+[Templates for abstract submission](template/REDLOCA_2019_latex_style.rar)
+
+### November 15th
+
+**Notification of acceptance**
+
+### November 30th
+
+**Final version of abstracts**
+
+------------------------------------------------------------------------
+
+## Program
+
+The total time allocated to each speaker was **20 minutes**, including questions.
+
+[Program and abstracts (PDF)](pdf/Program_2019_v4.pdf)
+
+### Wednesday, January 30th
+
+- **16:00 – 16:30** Registration  
+- **16:30 – 16:45** Opening session  
+- **16:45 – 18:25** Session 1: Discrete Location  
+- **18:25 – 18:45** Coffee break  
+- **18:45 – 20:05** Session 2: Networks  
+- **21:30** Welcome reception  
+
+### Thursday, January 31st
+
+- **09:00 – 10:40** Session 3: Continuous Location  
+- **10:40 – 11:10** Coffee break  
+- **11:10 – 12:30** Invited speaker: *Francisco Saldanha da Gama*  
+- **12:30 – 14:10** Session 4: Routing  
+- **14:10 – 15:30** Lunch  
+- **15:30 – 16:30** Session 5: Network Design  
+- **16:40 – 17:40** Session 6: Network Design II  
+- **17:40 – 18:00** Coffee break  
+- **18:00 – 19:00** Session 7: Applications  
+- **19:10 – 20:10** Session 8: Discrete Location II  
+- **21:30** Conference dinner  
+
+### Friday, February 1st
+
+- **09:00 – 10:40** Session 9: Applications / Routing / Hub Location  
+- **10:40 – 11:10** Coffee break  
+- **11:10 – 12:30** Invited speaker: *Ivana Ljubić*  
+- **12:30 – 13:50** Session 10: Bilevel Location  
+- **13:50 – 14:30** Location Network meeting  
+- **14:30 – 15:30** Lunch  
+
+------------------------------------------------------------------------
+
+## Registration
+
+**Registration fee:** 100 €  
+(Includes conference attendance, lectures, coffee breaks, lunches and taxes)
+
+[Registration form](https://goo.gl/forms/JLo6shsvXsqNJRvC2)
+
+------------------------------------------------------------------------
+
+## Lectures
+
+### Francisco Saldanha da Gama
+
+Universidade de Lisboa, Portugal  
+<http://webpages.fc.ul.pt/~faconceicao/>
+
+**Lecture:**  
+[Network design and facility location: The value of multi-period stochastic solutions](pdf/Francisco_Saldanha_abstract_Workshop2019.pdf)
+
+### Ivana Ljubić
+
+ESSEC Business School of Paris, France  
+<http://homepage.univie.ac.at/ivana.ljubic/>
+
+**Lecture:**  
+[Solving very large scale covering location problems using branch-and-Benders-cuts](pdf/Ivanna_Ljubic_abstract_Workshop2019.pdf)
+
+------------------------------------------------------------------------
+
+## Venue
+
+**Facultad de Enfermería y Fisioterapia**  
+Universidad de Cádiz  
+Avda. Ana de Viya 52  
+11009 Cádiz, Spain  
+
+[How to reach Cádiz](pdf/How%20to%20reach%20Cadiz.pdf)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7627.375505114065!2d-6.272801939504509!3d36.507881049160446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0dd15eb9c00a7d%3A0xabba0e71187a41ac!2sFacultad+de+Enfermería+y+Fisioterapia!5e0!3m2!1ses!2ses!4v1531930626795"
+width="100%" height="300" style="border:0;" loading="lazy"></iframe>
+
+------------------------------------------------------------------------
+
+## Sponsorship
+
+![](images/logos-ws/Logotipo_del_Ministerio_de_Ciencia__Innovacion_y_Universidades.png)
+![](images/logos-ws/logo_REDLOCA.jpg)
+![](images/logos-ws/logo_geloca.png)
+![](images/logos-ws/logodpto_UCA_DEIO.png)
+![](images/logos-ws/logo_euro.jpg)
+![](images/logos-ws/logo_SEIO.png)
+![](images/logos-ws/logo_UCA.jpg)
+![](images/logos-ws/Logo_Consejo_Social_A3.jpg)
+
+:::
