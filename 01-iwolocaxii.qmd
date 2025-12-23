@@ -1,18 +1,17 @@
 ---
-title: "IWOLOCA XII"
+title: "IWOLOCA XII - EWGLA XXIII"
 page-layout: full
 toc: false
 css: style/estilo.css
 ---
 
-### XII International Workshop on Locational Analysis and Related Problems  
+### XII International Workshop on Locational Analysis and Related Problems
 
 **Edinburgh (United Kingdom), 7–8 September 2023**
 
-Contact: [iwoloca@gm.uca.es](mailto:iwoloca@gm.uca.es)
+Contact: [iwoloca\@gm.uca.es](mailto:iwoloca@gm.uca.es)
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ## Welcome
 
 ![](images/IWO_XII_poster2023.jpg)
@@ -31,28 +30,28 @@ Researchers and practitioners were invited to present works in the form of oral 
 
 #### Scientific Committee
 
-- Maria Albareda (Universidad Politécnica de Cataluña)
-- Víctor Blanco (University of Granada)
-- David Canca (University of Seville)
-- Sergio García Quiles (University of Edinburgh)
-- Jörg Kalcsics (University of Edinburgh)
-- Mercedes Landete (University Miguel Hernández Elche)
-- Teresa Ortuño (Universidad Complutense de Madrid)
-- Blas Pelegrín (University of Murcia)
-- Justo Puerto Albandoz (University of Seville)
-- Antonio M. Rodríguez-Chía (University of Cádiz)
-- Juan José Salazar (University of La Laguna)
+-   Maria Albareda (Universidad Politécnica de Cataluña)
+-   Víctor Blanco (University of Granada)
+-   David Canca (University of Seville)
+-   Sergio García Quiles (University of Edinburgh)
+-   Jörg Kalcsics (University of Edinburgh)
+-   Mercedes Landete (University Miguel Hernández Elche)
+-   Teresa Ortuño (Universidad Complutense de Madrid)
+-   Blas Pelegrín (University of Murcia)
+-   Justo Puerto Albandoz (University of Seville)
+-   Antonio M. Rodríguez-Chía (University of Cádiz)
+-   Juan José Salazar (University of La Laguna)
 
 #### Organizing Committee
 
-- Sergio García Quiles (University of Edinburgh)
-- Jörg Kalcsics (University of Edinburgh)
-- Víctor Blanco (University of Granada)
-- Dolores R. Santos Peñate (University of Las Palmas de G.C.)
-- Gillian Kerr (ICMS)
-- Lisa Garrett (ICMS)
+-   Sergio García Quiles (University of Edinburgh)
+-   Jörg Kalcsics (University of Edinburgh)
+-   Víctor Blanco (University of Granada)
+-   Dolores R. Santos Peñate (University of Las Palmas de G.C.)
+-   Gillian Kerr (ICMS)
+-   Lisa Garrett (ICMS)
 
----
+------------------------------------------------------------------------
 
 ## Proceedings
 
@@ -60,7 +59,7 @@ The book of abstracts can be visited in [here](https://arxiv.org/abs/2309.08337)
 
 ![](images/IWO_XII_book.png)
 
----
+------------------------------------------------------------------------
 
 ## Important Dates
 
@@ -68,7 +67,7 @@ The book of abstracts can be visited in [here](https://arxiv.org/abs/2309.08337)
 
 **Abstract submission**
 
-A short abstract in English had to be submitted via: 
+A short abstract in English had to be submitted via:
 
 [IWOLOCA 2023 – EasyChair](https://easychair.org/conferences/?conf=iwoloca2023)
 
@@ -78,7 +77,7 @@ A short abstract in English had to be submitted via:
 
 **Notification of acceptance**
 
-### July 7 (£525, with accommodation)  
+### July 7 (£525, with accommodation)
 
 ### August 15 (£125, without accommodation)
 
@@ -88,52 +87,54 @@ A short abstract in English had to be submitted via:
 
 **Workshop**
 
----
+------------------------------------------------------------------------
 
 ## Registration
 
-- **£525**, with accommodation  
-- **£125**, without accommodation  
+-   **£525**, with accommodation\
+-   **£125**, without accommodation
 
-Registration form: 
+Registration form:
 
 [Registration and accommodation – University of Edinburgh](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-mathematics/iwoloca-2023)
 
----
+------------------------------------------------------------------------
 
 ## Lectures
 
-### Miguel Anjos  
-University of Edinburgh  
-<https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=717>  
+### Miguel Anjos
+
+University of Edinburgh\
+<https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=717>
 
 **Lecture:** Optimal Location of Electric Vehicle Charging Stations
 
-### Antonio M. Rodríguez Chía  
-Universidad de Cádiz  
+### Antonio M. Rodríguez Chía
+
+Universidad de Cádiz\
 <https://produccioncientifica.uca.es/investigadores/113308/detalle>
 
-### Paola Scaparra  
-University of Kent  
-<https://www.kent.ac.uk/kent-business-school/people/senior-leadership-team/895>  
+### Paola Scaparra
+
+University of Kent\
+<https://www.kent.ac.uk/kent-business-school/people/senior-leadership-team/895>
 
 **Lecture:** Unlocking sustainable solutions: Operations Research for the Global Goals
 
----
+------------------------------------------------------------------------
 
 ## Venue
 
-**Bayes Centre, University of Edinburgh**  
+**Bayes Centre, University of Edinburgh**\
 Edinburgh, United Kingdom
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.234328382335!2d-3.1893694835854993!3d55.94531038459484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c7d062a4b737%3A0xe8b71b6220a53c7!2sThe%20Bayes%20Centre%2C%20The%20University%20of%20Edinburgh!5e0!3m2!1ses!2ses!4v1679503631624!5m2!1ses!2ses"
-width="100%" height="300" style="border:0;" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.234328382335!2d-3.1893694835854993!3d55.94531038459484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c7d062a4b737%3A0xe8b71b6220a53c7!2sThe%20Bayes%20Centre%2C%20The%20University%20of%20Edinburgh!5e0!3m2!1ses!2ses!4v1679503631624!5m2!1ses!2ses" width="100%" height="300" style="border:0;" loading="lazy">
 
----
+</iframe>
+
+------------------------------------------------------------------------
 
 ## Sponsorship
 
 ![](images/IWO_XII_sponsor.png)
-
-
 :::
