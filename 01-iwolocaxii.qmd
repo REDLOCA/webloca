@@ -12,6 +12,7 @@ css: style/estilo.css
 Contact: [iwoloca\@gm.uca.es](mailto:iwoloca@gm.uca.es)
 
 ::: panel-tabset
+
 ## Welcome
 
 ![](images/IWO_XII_poster2023.jpg)
@@ -50,6 +51,9 @@ Researchers and practitioners were invited to present works in the form of oral 
 -   Dolores R. Santos Peñate (University of Las Palmas de G.C.)
 -   Gillian Kerr (ICMS)
 -   Lisa Garrett (ICMS)
+
+![](images/IWO_XII_all.JPG)
+
 
 ------------------------------------------------------------------------
 

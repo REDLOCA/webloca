@@ -5,94 +5,102 @@ editor: visual
 
 <link rel="stylesheet" href="style/estilo.css">
 
+#### [Ordered Optimization: Theory, Algorithms and Applications](https://www.torrejonvalenzuela.net/pdf/PhD.pdf)
 
-#### Alberto Torrejón Valenzuela - [Ordered Optimization: Theory, Algorithms and Applications](https://www.torrejonvalenzuela.net/pdf/PhD.pdf)
+- **Doctorando/a:** Alberto Torrejón Valenzuela
+- **Dirigida por:** Justo Puerto, Miguel A. Pozo
+- **Institución:** Universidad de Sevilla/Instituto de Matemáticas de la Universidad de Sevilla
+- **Año:** 2025
 
-- Dirigida por: Justo Puerto, Miguel A. Pozo
-- Institución: Universidad de Sevilla/Instituto de Matemáticas de la Universidad de Sevilla
-- Año: 2025
+#### [Insights into Conic Optimization Bridging Theory and Applications](https://digibug.ugr.es/handle/10481/108327)
 
-#### Miguel Martínez Antón - [Insights into Conic Optimization Bridging Theory and Applications](https://digibug.ugr.es/handle/10481/108327)
+- **Doctorando/a:** Miguel Martínez Antón
+- **Dirigida por:** Víctor Blanco
+- **Institución:** Universidad de Granada/Instituto de Matemáticas de la Universidad de Granada
+- **Año:** 2025
 
-- Dirigida por: Víctor Blanco
-- Institución: Universidad de Granada/Instituto de Matemáticas de la Universidad de Granada
-- Año: 2025
+#### [Mathematical Optimization for the Design of Complex Networks](https://digibug.ugr.es/handle/10481/108109?show=full)
 
-#### Gabriel González Domínguez - [Mathematical Optimization for the Design of Complex Networks](https://digibug.ugr.es/handle/10481/108109?show=full)
+- **Doctorando/a:** Gabriel González Domínguez
+- **Dirigida por:** Víctor Blanco, Justo Puerto
+- **Institución:** Universidad de Granada/Instituto de Matemáticas de la Universidad de Granada
+- **Año:** 2025
 
-- Dirigida por: Víctor Blanco, Justo Puerto
-- Institución: Universidad de Granada/Instituto de Matemáticas de la Universidad de Granada
-- Año: 2025
+#### [New Advances on Analysis and Optimization Problems in Networks](https://idus.us.es/items/164670b3-04f6-4990-859d-4ab5cc2408b9)
 
-#### Francisco Temprano García - [New Advances on Analysis and Optimization Problems in Networks
-](https://idus.us.es/items/164670b3-04f6-4990-859d-4ab5cc2408b9)
+- **Doctorando/a:** Francisco Temprano García
+- **Dirigida por:** Justo Puerto
+- **Institución:** Universidad de Sevilla/Instituto de Matemáticas de la Universidad de Sevilla
+- **Año:** 2025
 
-- Dirigida por: Justo Puerto
-- Institución: Universidad de Sevilla/Instituto de Matemáticas de la Universidad de Sevilla
-- Año: 2025
+#### [Optimización en problemas de tomografía electrónica y localización de concentradores con asignación única optimization in electron tomography and single-allocation hub location problems](https://rodin.uca.es/handle/10498/36130)
 
-#### Juan Manuel Muñoz Ocaña - [Optimización en problemas de tomografía electrónica y localización de concentradores con asignación única optimization in electron tomography and single-allocation hub location problems](https://rodin.uca.es/handle/10498/36130)
+- **Doctorando/a:** Juan Manuel Muñoz Ocaña
+- **Dirigida por:** Antonio Manuel Rodríguez-Chía, Miguel López Haro
+- **Institución:** Universidad de Cádiz
+- **Año:** 2024
 
-- Dirigida por: Antonio Manuel Rodríguez-Chía, Miguel López Haro
-- Institución: Universidad de Cádiz
-- Año: 2024
+#### [Conic programming for routing and location problems](https://idus.us.es/items/092d3209-50b3-4b48-a6db-7fd3799efb8d)
 
-#### Carlos Valverde Martín - [Conic programming for routing and location problems
-](https://idus.us.es/items/092d3209-50b3-4b48-a6db-7fd3799efb8d)
+- **Doctorando/a:** Carlos Valverde Martín
+- **Dirigida por:** Justo Puerto
+- **Institución:** Universidad de Sevilla/Instituto de Matemáticas de la Universidad de Sevilla
+- **Año:** 2024
 
-- Dirigida por: Justo Puerto
-- Institución: Universidad de Sevilla/Instituto de Matemáticas de la Universidad de Sevilla
-- Año: 2024
+#### [Investigación Operativa para la Extinción de Incendios Forestales : El “Team Orienteering Problem” con Ventanas de Tiempo Variables](https://docta.ucm.es/entities/publication/059e96f7-f28b-4802-be39-f32fe8a6f60e)
 
-#### Bibiana Granda Chico - [Investigación Operativa para la Extinción de Incendios Forestales : El “Team Orienteering Problem” con Ventanas de Tiempo Variables](https://docta.ucm.es/entities/publication/059e96f7-f28b-4802-be39-f32fe8a6f60e)
+- **Doctorando/a:** Bibiana Granda Chico
+- **Dirigida por:** Begoña Vitoriano
+- **Institución:** Universidad Complutense de Madrid
+- **Año:** 2024
 
-- Dirigida por: Begoña Vitoriano
-- Institución: Universidad Complutense de Madrid
-- Año: 2024
+#### [The 2-dimensional variable-sized cutting stock problem optimisation in the honeycomb cardboard industry](https://docta.ucm.es/entities/publication/02e93360-f865-41cd-9f36-bf5fc735cabe)
 
-#### Paula Terán Viadero - [The 2-dimensional variable-sized cutting stock problem optimisation in the honeycomb cardboard industry](https://docta.ucm.es/entities/publication/02e93360-f865-41cd-9f36-bf5fc735cabe)
+- **Doctorando/a:** Paula Terán Viadero
+- **Dirigida por:** Antonio Alonso Ayuso, Javier Martín Campo
+- **Institución:** Universidad Complutense de Madrid
+- **Año:** 2024
 
-- Dirigida por: Antonio Alonso Ayuso, Javier Martín Campo
-- Institución: Universidad Complutense de Madrid
-- Año: 2024
+#### [Knapsack models applied to the solution of complex problems in transport planning](https://idus.us.es/items/9334eef0-6d4f-4557-bec9-355c21ffcf97)
 
-#### Ramón Piedra de la Cuadra - [Knapsack models applied to the solution of complex problems in transport planning](https://idus.us.es/items/9334eef0-6d4f-4557-bec9-355c21ffcf97)
+- **Doctorando/a:** Ramón Piedra de la Cuadra
+- **Dirigida por:** Francisco Ortega Riejos
+- **Institución:** Universidad de Sevilla
+- **Año:** 2023
 
-- Dirigida por: Francisco Ortega Riejos
-- Institución: Universidad de Sevilla
-- Año: 2023
+#### [Arc routing problems with drones](https://producciocientifica.uv.es/documentos/6868155e80a0ed598f988c70)
 
-#### Paula Segura Martínez - [Arc routing problems with drones](https://producciocientifica.uv.es/documentos/6868155e80a0ed598f988c70)
+- **Doctorando/a:** Paula Segura Martínez
+- **Dirigida por:** José María Sanchís Llopis, Ángel Corberán Salvador, Isaac Plana Andani
+- **Institución:** Universitat de València
+- **Año:** 2023
 
-- Dirigida por: José María Sanchís Llopis, Ángel Corberán Salvador, Isaac Plana Andani
-- Institución: Universitat de València
-- Año: 2023
+#### [Exact and metaheuristic approaches for network desing problems](https://idus.us.es/items/e72908ec-de55-4bc7-b48a-053c82440f4c)
 
-### Natividad González Blanco - [Exact and metaheuristic approaches for network desing problems
-](https://idus.us.es/items/e72908ec-de55-4bc7-b48a-053c82440f4c)
+- **Doctorando/a:** Natividad González Blanco
+- **Dirigida por:** Juan Antonio Mesa López-Colmenar, Bernard Fortz
+- **Institución:** Universidad de Sevilla
+- **Año:** 2023
 
-- Dirigida por: Juan Antonio Mesa López-Colmenar, Bernard Fortz
-- Institución: Universidad de Sevilla
-- Año: 2023
+#### [The rank pricing problema mixed-integer linear optimization approach](https://portalinvestigacion.um.es/documentos/63bc33493035a915c707c8c5)
 
-#### Concepción Domínguez Sánchez - [The rank pricing problema mixed-integer linear optimization approach](https://portalinvestigacion.um.es/documentos/63bc33493035a915c707c8c5)
+- **Doctorando/a:** Concepción Domínguez Sánchez
+- **Dirigida por:** Bernard Fortz, Martine Labbé, Alfredo Marín Pérez
+- **Institución:** Universidad de Murcia
+- **Año:** 2021
 
-- Dirigida por: Bernard Fortz, Martine Labbé, Alfredo Marín Pérez Director
-- Institución: Universidad de Murcia
-- Año: 2021
+#### [Estudio de problemas de clasificación supervisada y de localización en redes mediante optimización matemática](https://rodin.uca.es/handle/10498/29041)
 
-#### Marta Baldomero Naranjo - [Estudio de problemas de clasificación supervisada y de localización en redes mediante optimización matemática](https://rodin.uca.es/handle/10498/29041)
+- **Doctorando/a:** Marta Baldomero Naranjo
+- **Dirigida por:** Antonio Manuel Rodríguez Chía
+- **Institución:** Universidad de Cádiz
+- **Año:** 2021
 
-- Dirigida por: Antonio Manuel Rodríguez Chía
-- Institución: Universidad de Cádiz
-- Año: 2021
+#### [Contributions to Close-Enough Arc Routing Problems](https://webges.uv.es/public/uvEntreuWeb/tesis/tesis-1630638-SJ40QBL2LAKATPOF.pdf)
 
-#### Miguel Reula Martin - [Contributions to Close-Enough Arc Routing Problems](https://webges.uv.es/public/uvEntreuWeb/tesis/tesis-1630638-SJ40QBL2LAKATPOF.pdf)
-
-- Dirigida por: José María Sanchís Llopis, Ángel Corberán Salvador, Isaac Plana Andani
-- Institución: Universitat de València
-- Año: 2021
+- **Doctorando/a:** Miguel Reula Martin
+- **Dirigida por:** José María Sanchís Llopis, Ángel Corberán Salvador, Isaac Plana Andani
+- **Institución:** Universitat de València
+- **Año:** 2021
 
 Puede consultar otras tesis doctorales [aquí](https://geloca.seio.es/?page_id=12).
-
-
