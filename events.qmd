@@ -21,3 +21,6 @@ editor: visual
 -   III IWOLOCA, 2012, Granada
 -   [II IWOLOCA, 2011, Las Palmas de Gran Canaria](https://www2.ulpgc.es/hege/almacen/download/7085/7085202/presentacion.pdf)
 -   I IWOLOCA, 2010, Sevilla
+
+
+<span class="reducida">Puedes descargar la plantilla web de IWOLOCA [aquí](template/iwoloca_template.zip).</span>
