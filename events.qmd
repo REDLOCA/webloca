@@ -9,7 +9,7 @@ editor: visual
 
 - [XIV IWOLOCA - EWGLA XXX, 2025, Jerez](01-iwolocaxiv.html)
 - [XIII IWOLOCA, 2024, Granada](01-iwolocaxiii.html)
-- [XII IWOLOCA, 2023, Edimburgo](https://redloca.ulpgc.es/redloca23.html)
+- [XII IWOLOCA, 2023, Edimburgo](01-iwolocaxii.html)
 - [XI IWOLOCA, 2022, Elche](https://redloca.ulpgc.es/redloca22.html)
 - [X IWOLOCA, 2020, Sevilla](https://redloca.ulpgc.es/redloca20.html)
 - [IX IWOLOCA, 2019, Cádiz](https://redloca.ulpgc.es/redloca18.html)

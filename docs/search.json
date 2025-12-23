@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bienvenido",
-    "section": "",
-    "text": "Bienvenido\nLa Red de Localización está formada por distintos grupos de investigadores de varias universidades que trabajan en el campo de la localización y problemas relacionados. Además de los modelos de localización, se estudian modelos de rutas y transporte, diseño de redes y logística, entre otros temas. La Red fue creada en el año 2002 a partir del Grupo Español de Localización (GELOCA, http://geloca.seio.es/), estando financiada desde su inicio por el Gobierno Español. Desde 2002 hasta la actualidad, la Red ha estado coordinada por Juan A. Mesa (Universidad de Sevilla), Elena Fernández (Universitat Politècnica de Catalunya), Alfredo Marín (Universidad de Murcia), Dolores R. Santos-Peñate (Universidad de Las Palmas de Gran Canaria), Antonio M. Rodríguez-Chía (Universidad de Cádiz), Maria Albareda (Universitat Politècnica de Catalunya) y Víctor Blanco (Universidad de Granada). Desde 2010, entre otras actividades, la Red organiza anualmente el International Workshop on Locational Analysis and Related Problems, abierto a la participación de personas interesadas en los temas relacionados con la localización.\n\n iwoloca@gmail.com   @IWOLOCA"
-  },
-  {
     "objectID": "01-iwolocaxiv.html",
     "href": "01-iwolocaxiv.html",
     "title": "IWOLOCA XIV - EWGLA XXX",
@@ -18,6 +11,16 @@
     ]
   },
   {
+    "objectID": "news.html#closing-iwoloca-xiii-and-presentation-of-iwoloca-xiv-jointly-organized-with-the-30th-ewgla-meeting",
+    "href": "news.html#closing-iwoloca-xiii-and-presentation-of-iwoloca-xiv-jointly-organized-with-the-30th-ewgla-meeting",
+    "title": "Noticias",
+    "section": "Closing IWOLOCA XIII and presentation of IWOLOCA XIV (jointly organized with the 30th EWGLA meeting)",
+    "text": "Closing IWOLOCA XIII and presentation of IWOLOCA XIV (jointly organized with the 30th EWGLA meeting)\nThe XXX Meeting of EURO Working Group on Locational Analysis will take place in Jerez de la Frontera (Spain) from 17 to 19 September 2025. This is a periodic meeting of EWGLA which gathers researchers focused on Locational Analysis and its applications. Theoretical contributions (concepts, methods, etc.), applied research, and presentations of software, are welcome. Communications, discussions or surveys on new applications, open problems, connections between the field of location theory and related areas are of interest.",
+    "crumbs": [
+      "Noticias"
+    ]
+  },
+  {
     "objectID": "events.html",
     "href": "events.html",
     "title": "Congresos",
@@ -25,6 +28,82 @@
     "text": "International Workshop on Location Analysis and Related Problems\n\nXIV IWOLOCA - EWGLA XXX, 2025, Jerez\nXIII IWOLOCA, 2024, Granada\nXII IWOLOCA, 2023, Edimburgo\nXI IWOLOCA, 2022, Elche\nX IWOLOCA, 2020, Sevilla\nIX IWOLOCA, 2019, Cádiz\nVIII IWOLOCA, 2017, Segovia\nVII IWOLOCA, 2016, Málaga\nVI IWOLOCA, 2015, Barcelona\nV IWOLOCA, 2014, Sevilla\nIV IWOLOCA, 2013, Málaga\nIII IWOLOCA, 2012, Granada\nII IWOLOCA, 2011, Las Palmas de Gran Canaria\nI IWOLOCA, 2010, Sevilla",
     "crumbs": [
       "Congresos"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiii.html#confirmed-speakers",
+    "href": "01-iwolocaxiii.html#confirmed-speakers",
+    "title": "IWOLOCA XIII",
+    "section": "Confirmed Speakers",
+    "text": "Confirmed Speakers\n\nJim Luedtke (University of Wisconsin - Madison)\nAlfredo Marín (Universidad de Murcia)\nSibel Salman (Koç University)",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIII"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiii.html#schedule",
+    "href": "01-iwolocaxiii.html#schedule",
+    "title": "IWOLOCA XIII",
+    "section": "Schedule",
+    "text": "Schedule\nThe definitive program for the conference is available here: Schedule\nThe proceedings for the Workshop can be downloaded here: Proceedings IWOLOCA24",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIII"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiii.html#venue",
+    "href": "01-iwolocaxiii.html#venue",
+    "title": "IWOLOCA XIII",
+    "section": "Venue",
+    "text": "Venue\nThe workshop will be held at the Institute of Mathematics (IMAG) - Universidad de Granada and Carmen de la Victoria (Salón de Actos)",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIII"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiii.html#list-of-topics",
+    "href": "01-iwolocaxiii.html#list-of-topics",
+    "title": "IWOLOCA XIII",
+    "section": "List of Topics",
+    "text": "List of Topics\n\nFacility and Hub Location\nNetwork Design\nApplications to Machine Learning\nTransportation\nHumanitarian Logistics",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIII"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiii.html#social-activities",
+    "href": "01-iwolocaxiii.html#social-activities",
+    "title": "IWOLOCA XIII",
+    "section": "Social Activities",
+    "text": "Social Activities\nAs part of the social side of the conference, we will have during the conference: a wellcome cocktail, a guided visit, a tapas tour, and a gala dinner.",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIII"
+    ]
+  },
+  {
+    "objectID": "01-iwolocaxiii.html#committees",
+    "href": "01-iwolocaxiii.html#committees",
+    "title": "IWOLOCA XIII",
+    "section": "Committees",
+    "text": "Committees\n\nProgram Committee\n\nMari Albareda, (Universidad Politécnica de Cataluña).\nVíctor Blanco (Universidad de Granada).\nDavid Canca (Universidad de Sevilla).\nElena Fernández (Universidad de Cádiz)\nSergio García Quiles (University of Edinburgh).\nJörg Kalcsics (University of Edinburgh).\nMercedes Landete (Universidad Miguel Hernández Elche).\nTeresa Ortuño (Universidad Complutense de Madrid).\nBlas Pelegrín (Universidad de Murcia).\nJusto Puerto (Universidad de Seville).\nJuan José Salazar (Universidad de La Laguna).\n\n\n\nLocal Organizing Committee\n\nMarta Baldomero (Universidad de Cádiz)\nVíctor Blanco (Universidad de Granada) - Chair\nRicardo Gázquez (Universidad Carlos III Madrid)\nGabriel González (Universidad de Granada)\nMiguel Martínez-Antón (Universidad de Granada)\nLuisa Martínez-Merino (Universidad de Cádiz)\nRomán Salmerón (Universidad de Granada)\nFrancisco Temprano (Universidad de Sevilla)\nAlberto Torrejón (Universidad de Sevilla)\n\n\n\nContact\nAll questions about submissions should be emailed to iwoloca@gmail.com\n\n\nSponsors",
+    "crumbs": [
+      "Congresos",
+      "IWOLOCA XIII"
+    ]
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Miembros",
+    "section": "",
+    "text": "ESSEC Bussiness School\n\nIvana Ljubic\nClaudia Archetti\n\nKarlsruhe Institute of Technology\n\nStephan Nickel\n\nUniversidad Autónoma de Madrid\n\nP. Martínez\nJ. López\n\nUniversidad Autónoma de Nuevo León\n\nRoger Ríos\nFernando Camacho\n\nUniversidad Complutense de Madrid\n\nTeresa Ortuño\nGregorio Tirado\nJosé María Ferrer\nBegoña Vitoriano\nA. Rodríguez\nJavier Martin-Campo\nBibiana Granada\nJavier León\nJesús Barreal\n\nUniversidad Heidelberg\n\nG. Reinelt\n\nUniversidad Miguel Hernández de Elche\n\nMercedes Landete\nJavier Alcaraz\nJuan Francisco Monge\nJose Luis Sainz-Pardo\nMarina Leal\nLaura Antón\nAlejandro Moya\nLorena Nacher\n\nUniversidad Niccolò Cusano\n\nAndrea Scozzari\n\nUniversidad Pablo de Olavide\n\nEva Barrena\n\nUniversidad Politècnica de Catalunya\n\nMaria Albareda\nEsteve Codina\nCristina Núñez\n\nUniversidad Politécnica de Valencia\n\nJose Manuel Sanchís\n\nUniversidad Pompeu Fabra\n\nAlberto Santini\nJ. Rodríguez\n\nUniversidad Rey Juan Carlos\n\nAntonio Alonso Ayuso\nCeleste Pizarro\nLaureano Escudero\nD. Heredia\n\nUniversidad de Cardiff\n\nFederico Liberatore\n\nUniversidad de Cádiz\n\nAntonio M. Rodríguez Chía\nAntonia Castaño\nMarta Baldomero\nInma Espejo\nLuisa Martínez\nJuan Manuel Muñoz\nTeresa Navarro\nRaúl Páez\nConcepción Valero\nElena Fernández\nManuel Muñoz Márquez\nManuel Arana\nNicolás Zerega\n\nUniversidad de Edimburgo\n\nSergio García-Quiles\nJörg Kalsics\n\nUniversidad de Granada\n\nVíctor Blanco\nRomán Salmerón\nAlessio Gaggero\nCatalina García\nT. García\nMiguel A. Martinez\nGabriel Gonzalez\nRicardo Gázquez\n\nUniversidad de La Sapienza\n\nLavinia Amorosi\nFederica Ricca\n\nUniversidad de Las Palmas de Gran Canarias\n\nDolores R. Santos Peñate\nPablo Dorta González\nManrique de Lara Peñate\nRafael R. Suárez\n\nUniversidad de Murcia\n\nBlas Pelegrín\nAlfredo Marín\nJosé Fernández Hernández\nPascual Fernández Hernández\nConcepción D. Sanchez\n\nUniversidad de Málaga\n\nEligius M. T. Hendrix\n\nUniversidad de Navarra\n\nJavier Elizalde\n\nUniversidad de Sevilla\n\nJusto Puerto\nYolanda Hinojosa\nMiguel A. Pozo\nDiego Ponce\nAlberto Torrejón\nFrancisco Temprano\nCarlos Valverde\nDavid Canca\nJuan Antonio Mesa\nFrancisco Ortega\nFederico Perea\nAlicia De los Santos\nRamón Piedra\nNatividad Gonzalez-Blanco\nG. Marseglia\nMaría Calvo\nPL González\nM. Calle-Suárez\nJose Luis Andrade\nJose M. Leon Blanco\nMaria Cruz Lopez de los Mozos\n\nUniversidad de Sheffield\n\nFrancisco Saldanha\nDiego Ruiz\n\nUniversidad de Szeged\n\nB.G. Toth\n\nUniversidad de Trento\n\nStefano Benati\n\nUniversidad de Valencia\n\nEnrique Benavent\nMiguel Reula\nPaula Segura\nJuan José Peiró\n\nUniversidad de Wisconsin-Madison\n\nJeff Linderoth\nAlberto Del Pia\n\nUniversidad de Zaragoza\n\nHerminia I. Calvete\nCarmen Galé\nJosé A. Iranzo\n\nUniversidad de la Laguna\n\nJuan José Salazar\nHipolito Hernández\nJorge Riera\nInmaculada Rodríguez\nDavid Pérez\nIsabel Dorta\n\nUniversidad de las Américas Puebla\n\nJuan Díaz",
+    "crumbs": [
+      "Miembros"
     ]
   },
   {
@@ -128,89 +207,32 @@
     ]
   },
   {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "Miembros",
+    "objectID": "01-iwolocaxii.html",
+    "href": "01-iwolocaxii.html",
+    "title": "IWOLOCA XII",
     "section": "",
-    "text": "ESSEC Bussiness School\n\nIvana Ljubic\nClaudia Archetti\n\nKarlsruhe Institute of Technology\n\nStephan Nickel\n\nUniversidad Autónoma de Madrid\n\nP. Martínez\nJ. López\n\nUniversidad Autónoma de Nuevo León\n\nRoger Ríos\nFernando Camacho\n\nUniversidad Complutense de Madrid\n\nTeresa Ortuño\nGregorio Tirado\nJosé María Ferrer\nBegoña Vitoriano\nA. Rodríguez\nJavier Martin-Campo\nBibiana Granada\nJavier León\nJesús Barreal\n\nUniversidad Heidelberg\n\nG. Reinelt\n\nUniversidad Miguel Hernández de Elche\n\nMercedes Landete\nJavier Alcaraz\nJuan Francisco Monge\nJose Luis Sainz-Pardo\nMarina Leal\nLaura Antón\nAlejandro Moya\nLorena Nacher\n\nUniversidad Niccolò Cusano\n\nAndrea Scozzari\n\nUniversidad Pablo de Olavide\n\nEva Barrena\n\nUniversidad Politècnica de Catalunya\n\nMaria Albareda\nEsteve Codina\nCristina Núñez\n\nUniversidad Politécnica de Valencia\n\nJose Manuel Sanchís\n\nUniversidad Pompeu Fabra\n\nAlberto Santini\nJ. Rodríguez\n\nUniversidad Rey Juan Carlos\n\nAntonio Alonso Ayuso\nCeleste Pizarro\nLaureano Escudero\nD. Heredia\n\nUniversidad de Cardiff\n\nFederico Liberatore\n\nUniversidad de Cádiz\n\nAntonio M. Rodríguez Chía\nAntonia Castaño\nMarta Baldomero\nInma Espejo\nLuisa Martínez\nJuan Manuel Muñoz\nTeresa Navarro\nRaúl Páez\nConcepción Valero\nElena Fernández\nManuel Muñoz Márquez\nManuel Arana\nNicolás Zerega\n\nUniversidad de Edimburgo\n\nSergio García-Quiles\nJörg Kalsics\n\nUniversidad de Granada\n\nVíctor Blanco\nRomán Salmerón\nAlessio Gaggero\nCatalina García\nT. García\nMiguel A. Martinez\nGabriel Gonzalez\nRicardo Gázquez\n\nUniversidad de La Sapienza\n\nLavinia Amorosi\nFederica Ricca\n\nUniversidad de Las Palmas de Gran Canarias\n\nDolores R. Santos Peñate\nPablo Dorta González\nManrique de Lara Peñate\nRafael R. Suárez\n\nUniversidad de Murcia\n\nBlas Pelegrín\nAlfredo Marín\nJosé Fernández Hernández\nPascual Fernández Hernández\nConcepción D. Sanchez\n\nUniversidad de Málaga\n\nEligius M. T. Hendrix\n\nUniversidad de Navarra\n\nJavier Elizalde\n\nUniversidad de Sevilla\n\nJusto Puerto\nYolanda Hinojosa\nMiguel A. Pozo\nDiego Ponce\nAlberto Torrejón\nFrancisco Temprano\nCarlos Valverde\nDavid Canca\nJuan Antonio Mesa\nFrancisco Ortega\nFederico Perea\nAlicia De los Santos\nRamón Piedra\nNatividad Gonzalez-Blanco\nG. Marseglia\nMaría Calvo\nPL González\nM. Calle-Suárez\nJose Luis Andrade\nJose M. Leon Blanco\nMaria Cruz Lopez de los Mozos\n\nUniversidad de Sheffield\n\nFrancisco Saldanha\nDiego Ruiz\n\nUniversidad de Szeged\n\nB.G. Toth\n\nUniversidad de Trento\n\nStefano Benati\n\nUniversidad de Valencia\n\nEnrique Benavent\nMiguel Reula\nPaula Segura\nJuan José Peiró\n\nUniversidad de Wisconsin-Madison\n\nJeff Linderoth\nAlberto Del Pia\n\nUniversidad de Zaragoza\n\nHerminia I. Calvete\nCarmen Galé\nJosé A. Iranzo\n\nUniversidad de la Laguna\n\nJuan José Salazar\nHipolito Hernández\nJorge Riera\nInmaculada Rodríguez\nDavid Pérez\nIsabel Dorta\n\nUniversidad de las Américas Puebla\n\nJuan Díaz",
-    "crumbs": [
-      "Miembros"
-    ]
-  },
-  {
-    "objectID": "01-iwolocaxiii.html#confirmed-speakers",
-    "href": "01-iwolocaxiii.html#confirmed-speakers",
-    "title": "IWOLOCA XIII",
-    "section": "Confirmed Speakers",
-    "text": "Confirmed Speakers\n\nJim Luedtke (University of Wisconsin - Madison)\nAlfredo Marín (Universidad de Murcia)\nSibel Salman (Koç University)",
+    "text": "XII International Workshop on Locational Analysis and Related Problems\nEdinburgh (United Kingdom), 7–8 September 2023\nContact: iwoloca@gm.uca.es\n\nWelcomeProceedingsImportant DatesRegistrationLecturesVenueSponsorship\n\n\n\nWelcome,\nThe International Workshop on Locational Analysis and Related Problems was celebrated in Edinburgh (United Kingdom) on 7 and 8 September 2023.\nThis activity was organized by the Spanish Network on Location and Related Problems and GELOCA, the SEIO working group on Location. These organizations involve Spanish researchers focused on locational analysis and related problems, organized in six thematic nodes and distributed among several Spanish universities.\nThe topics of interest include location models, networks, transportation, logistics, exact and heuristic solution methods, and computational geometry.\nResearchers and practitioners were invited to present works in the form of oral communications or posters. For participation, the submission of a short abstract was required.\n\nCommittees\n\nScientific Committee\n\nMaria Albareda (Universidad Politécnica de Cataluña)\nVíctor Blanco (University of Granada)\nDavid Canca (University of Seville)\nSergio García Quiles (University of Edinburgh)\nJörg Kalcsics (University of Edinburgh)\nMercedes Landete (University Miguel Hernández Elche)\nTeresa Ortuño (Universidad Complutense de Madrid)\nBlas Pelegrín (University of Murcia)\nJusto Puerto Albandoz (University of Seville)\nAntonio M. Rodríguez-Chía (University of Cádiz)\nJuan José Salazar (University of La Laguna)\n\n\n\nOrganizing Committee\n\nSergio García Quiles (University of Edinburgh)\nJörg Kalcsics (University of Edinburgh)\nVíctor Blanco (University of Granada)\nDolores R. Santos Peñate (University of Las Palmas de G.C.)\nGillian Kerr (ICMS)\nLisa Garrett (ICMS)\n\n\n\n\n\n\nThe book of abstracts can be visited in here.\n\n\n\n\n\nJune 28th\nAbstract submission\nA short abstract in English had to be submitted via:\nIWOLOCA 2023 – EasyChair\nTemplates for abstract submission\n\n\nJune 29th\nNotification of acceptance\n\n\nJuly 7 (£525, with accommodation)\n\n\nAugust 15 (£125, without accommodation)\nRegistration deadlines\n\n\nSeptember 7–8\nWorkshop\n\n\n\n\n\n£525, with accommodation\n\n£125, without accommodation\n\nRegistration form:\nRegistration and accommodation – University of Edinburgh\n\n\n\n\nMiguel Anjos\nUniversity of Edinburgh\nhttps://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=717\nLecture: Optimal Location of Electric Vehicle Charging Stations\n\n\nAntonio M. Rodríguez Chía\nUniversidad de Cádiz\nhttps://produccioncientifica.uca.es/investigadores/113308/detalle\n\n\nPaola Scaparra\nUniversity of Kent\nhttps://www.kent.ac.uk/kent-business-school/people/senior-leadership-team/895\nLecture: Unlocking sustainable solutions: Operations Research for the Global Goals\n\n\n\n\nBayes Centre, University of Edinburgh\nEdinburgh, United Kingdom",
     "crumbs": [
       "Congresos",
-      "IWOLOCA XIII"
+      "IWOLOCA XII"
     ]
   },
   {
-    "objectID": "01-iwolocaxiii.html#schedule",
-    "href": "01-iwolocaxiii.html#schedule",
-    "title": "IWOLOCA XIII",
-    "section": "Schedule",
-    "text": "Schedule\nThe definitive program for the conference is available here: Schedule\nThe proceedings for the Workshop can be downloaded here: Proceedings IWOLOCA24",
+    "objectID": "phd_thesis.html",
+    "href": "phd_thesis.html",
+    "title": "Tesis doctorales",
+    "section": "",
+    "text": "Alberto Torrejón Valenzuela\nMiguel Martínez Antón\nGabriel González Domínguez\nFrancisco Temprano García\nJuan Manuel Muñoz Ocaña\nCarlos Valverde Martín",
     "crumbs": [
-      "Congresos",
-      "IWOLOCA XIII"
+      "Investigación",
+      "Tesis doctorales"
     ]
   },
   {
-    "objectID": "01-iwolocaxiii.html#venue",
-    "href": "01-iwolocaxiii.html#venue",
-    "title": "IWOLOCA XIII",
-    "section": "Venue",
-    "text": "Venue\nThe workshop will be held at the Institute of Mathematics (IMAG) - Universidad de Granada and Carmen de la Victoria (Salón de Actos)",
-    "crumbs": [
-      "Congresos",
-      "IWOLOCA XIII"
-    ]
-  },
-  {
-    "objectID": "01-iwolocaxiii.html#list-of-topics",
-    "href": "01-iwolocaxiii.html#list-of-topics",
-    "title": "IWOLOCA XIII",
-    "section": "List of Topics",
-    "text": "List of Topics\n\nFacility and Hub Location\nNetwork Design\nApplications to Machine Learning\nTransportation\nHumanitarian Logistics",
-    "crumbs": [
-      "Congresos",
-      "IWOLOCA XIII"
-    ]
-  },
-  {
-    "objectID": "01-iwolocaxiii.html#social-activities",
-    "href": "01-iwolocaxiii.html#social-activities",
-    "title": "IWOLOCA XIII",
-    "section": "Social Activities",
-    "text": "Social Activities\nAs part of the social side of the conference, we will have during the conference: a wellcome cocktail, a guided visit, a tapas tour, and a gala dinner.",
-    "crumbs": [
-      "Congresos",
-      "IWOLOCA XIII"
-    ]
-  },
-  {
-    "objectID": "01-iwolocaxiii.html#committees",
-    "href": "01-iwolocaxiii.html#committees",
-    "title": "IWOLOCA XIII",
-    "section": "Committees",
-    "text": "Committees\n\nProgram Committee\n\nMari Albareda, (Universidad Politécnica de Cataluña).\nVíctor Blanco (Universidad de Granada).\nDavid Canca (Universidad de Sevilla).\nElena Fernández (Universidad de Cádiz)\nSergio García Quiles (University of Edinburgh).\nJörg Kalcsics (University of Edinburgh).\nMercedes Landete (Universidad Miguel Hernández Elche).\nTeresa Ortuño (Universidad Complutense de Madrid).\nBlas Pelegrín (Universidad de Murcia).\nJusto Puerto (Universidad de Seville).\nJuan José Salazar (Universidad de La Laguna).\n\n\n\nLocal Organizing Committee\n\nMarta Baldomero (Universidad de Cádiz)\nVíctor Blanco (Universidad de Granada) - Chair\nRicardo Gázquez (Universidad Carlos III Madrid)\nGabriel González (Universidad de Granada)\nMiguel Martínez-Antón (Universidad de Granada)\nLuisa Martínez-Merino (Universidad de Cádiz)\nRomán Salmerón (Universidad de Granada)\nFrancisco Temprano (Universidad de Sevilla)\nAlberto Torrejón (Universidad de Sevilla)\n\n\n\nContact\nAll questions about submissions should be emailed to iwoloca@gmail.com\n\n\nSponsors",
-    "crumbs": [
-      "Congresos",
-      "IWOLOCA XIII"
-    ]
-  },
-  {
-    "objectID": "news.html#closing-iwoloca-xiii-and-presentation-of-iwoloca-xiv-jointly-organized-with-the-30th-ewgla-meeting",
-    "href": "news.html#closing-iwoloca-xiii-and-presentation-of-iwoloca-xiv-jointly-organized-with-the-30th-ewgla-meeting",
-    "title": "Noticias",
-    "section": "Closing IWOLOCA XIII and presentation of IWOLOCA XIV (jointly organized with the 30th EWGLA meeting)",
-    "text": "Closing IWOLOCA XIII and presentation of IWOLOCA XIV (jointly organized with the 30th EWGLA meeting)\nThe XXX Meeting of EURO Working Group on Locational Analysis will take place in Jerez de la Frontera (Spain) from 17 to 19 September 2025. This is a periodic meeting of EWGLA which gathers researchers focused on Locational Analysis and its applications. Theoretical contributions (concepts, methods, etc.), applied research, and presentations of software, are welcome. Communications, discussions or surveys on new applications, open problems, connections between the field of location theory and related areas are of interest.",
-    "crumbs": [
-      "Noticias"
-    ]
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenido",
+    "section": "",
+    "text": "Bienvenido\nLa Red de Localización está formada por distintos grupos de investigadores de varias universidades que trabajan en el campo de la localización y problemas relacionados. Además de los modelos de localización, se estudian modelos de rutas y transporte, diseño de redes y logística, entre otros temas. La Red fue creada en el año 2002 a partir del Grupo Español de Localización (GELOCA, http://geloca.seio.es/), estando financiada desde su inicio por el Gobierno Español. Desde 2002 hasta la actualidad, la Red ha estado coordinada por Juan A. Mesa (Universidad de Sevilla), Elena Fernández (Universitat Politècnica de Catalunya), Alfredo Marín (Universidad de Murcia), Dolores R. Santos-Peñate (Universidad de Las Palmas de Gran Canaria), Antonio M. Rodríguez-Chía (Universidad de Cádiz), Maria Albareda (Universitat Politècnica de Catalunya) y Víctor Blanco (Universidad de Granada). Desde 2010, entre otras actividades, la Red organiza anualmente el International Workshop on Locational Analysis and Related Problems, abierto a la participación de personas interesadas en los temas relacionados con la localización.\n\n iwoloca@gmail.com   @IWOLOCA"
   }
 ]

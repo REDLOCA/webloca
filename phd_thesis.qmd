@@ -1,0 +1,19 @@
+---
+title: "Tesis doctorales"
+editor: visual
+---
+
+<link rel="stylesheet" href="style/estilo.css">
+
+- [Alberto Torrejón Valenzuela]()
+
+- [Miguel Martínez Antón]()
+
+- [Gabriel González Domínguez]()
+
+- [Francisco Temprano García]()
+
+- [Juan Manuel Muñoz Ocaña]()
+
+- [Carlos Valverde Martín]()
+

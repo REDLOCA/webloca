@@ -60,14 +60,15 @@ website:
       # align: center
       contents:
         - href: events.qmd
-        - href: 01-iwolocaxiii.qmd
         - href: 01-iwolocaxiv.qmd
+        - href: 01-iwolocaxiii.qmd
+        - href: 01-iwolocaxii.qmd
 
     - id: research
       title: "Investigación"
       contents:
         - href: research.qmd
-      #   - href: 02-hello-world.qmd
+        - href: phd_thesis.qmd
       #   - href: 02-exploring-data.qmd
       #   - href: 02-ethics.qmd
       #   - href: 02-making-rigorous-conclusions.qmd
